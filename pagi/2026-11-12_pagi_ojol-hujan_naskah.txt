@@ -1,5 +1,5 @@
 [0,0–4,5] Hujan, ongkos ojolmu naik. Coba tebak, motor sendiri habis berapa?
-[4,5–10,4] Janji kemarin dulu. Komentar teratas dari [KOMENTAR_TERATAS #4 — @username]: [isi komentar, maks 6 kata].
+[4,5–10,4] Janji kemarin: komentar teratas tampil di sini. Kemarin masih kosong, jadi hari ini kesempatanmu.
 [10,4–15,9] Anggap kantormu delapan kilo. Ojolnya, tarif dasar sekitar dua puluh dua ribu.
 [15,9–21,8] Masalahnya, pas hujan semua orang pesan. Tarifnya ikut naik, misalnya tiga puluh ribu.
 [21,8–27,3] Dua belas hari hujan, pulang pergi? Tujuh ratus dua puluh ribu sebulan.

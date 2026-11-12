@@ -1,0 +1,47 @@
+ARN-43 · Diam-diam Makan Listrik · tayang Kam 12 Nov 2026 18.00 WIB
+Judul layar (frame 0): Diam-diam makan LISTRIK
+Gaya: Flat 2D · 9:16 · VO Maliq Nganjuk · perkiraan 53,5 dtk (±2,2 kata/dtk)
+
+[1] 0–3 dtk
+VO: Rumahmu kecolongan delapan puluh ribu tiap bulan.
+Layar: frame 0 = Si Bocor menggigit kabel rice cooker berlampu HANGAT, koin jatuh "cring!", Aru menoleh kaget. Teks: "Diam-diam makan LISTRIK". Counter Rp0 → Rp80.000 bergerak mulai dtk ~1,5–2,5. Visual berganti dtk 1,5 (zoom ke counter).
+
+[2] 3–7 dtk
+VO: Katanya pelakunya kulkas. Bener? Tahan dulu, kita hitung satu-satu.
+Layar: label kecil "MITOS ATAU FAKTA?" di atas kulkas; Si Bocor bersembunyi di balik kulkas (jawaban ditahan).
+
+[3] 7–13 dtk
+VO: Tarif PLN sekarang: seribu empat ratus empat puluh lima rupiah per kilowatt jam.
+Layar: kartu sumber "R-1 1.300 VA Rp1.444,70/kWh · Okt–Des 2026 · Metro TV News, 29 Okt 2026". Teks kecil dtk 10–15: "Follow @kabar.arunika buat hitungan harian".
+
+[4] 13–18,5 dtk
+VO: Mulai dari charger dan TV yang standby terus. Kira-kira sepuluh ribu sebulan.
+Layar: colokan bertumpuk, lampu merah TV berkedip; angka "±Rp10.000/bln*" + "*ilustrasi: 10 watt, 24 jam".
+
+[5] 18,5–24 dtk
+VO: Kulkas, nyala seharian: sekitar empat puluh tiga ribu. Wajar, memang harus nyala.
+Layar: kulkas, Si Bocor keluar dari balik kulkas lalu lari (bukan dia pelakunya); "±Rp43.000/bln*" + "*ilustrasi: 1 kWh/hari".
+
+[6] 24–29 dtk
+VO: Tapi dispenser panas-dingin lebih rakus: kira-kira lima puluh ribu, gara-gara pemanasnya.
+Layar: elemen pemanas menyala merah; "±Rp50.000/bln" + sumber "1–1,4 kWh/hari · Okezone/RCTI+, 13 Agu 2026".
+
+[7] 29–34 dtk
+VO: Juaranya justru di dapur: rice cooker yang dibiarkan mode hangat seharian.
+Layar: Si Bocor tidur pulas di atas rice cooker, lampu HANGAT menyala; meteran berputar cepat.
+
+[8] 34–40 dtk
+VO: Tujuh puluh tujuh watt, seharian penuh: delapan puluh ribu sebulan. Setahun? Hampir sejuta.
+Layar: counter Rp80.000 → Rp961.000/tahun; sumber "Mode hangat 77 W · PLN via detikFinance, 13 Jun 2017". Peringkat: 1 rice cooker hangat · 2 dispenser · 3 kulkas · 4 standby.
+
+[9] 40–46 dtk
+VO: Triknya: cabut begitu selesai makan. Sisa nasi masuk kulkas, panaskan pas mau makan.
+Layar: Aru mencabut steker, "Hitung dulu!"; counter turun ke Rp0.
+
+[10] 46–52 dtk
+VO: Si Bocor ternyata di dapurmu. Di rumahmu, apa paling boros? Tulis di komentar!
+Layar: Si Bocor terbangun, kabur. Teks: "Komentar like terbanyak dihitung di reel berikutnya".
+
+Penutup 52–53,5 dtk (≤1,5 dtk): logo kecil + "Barang paling boros di rumahmu?" (tanpa kalimat baru)
+
+* angka contoh ilustrasi: standby (10 W) dan kulkas (1 kWh/hari). Rice cooker & dispenser: perkiraan dari sumber, asumsi menyala terus 24 jam × 30 hari, tarif R-1 1.300 VA.

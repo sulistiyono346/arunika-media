@@ -1,0 +1,68 @@
+PULAU KOMEN · RAPAT WARGA: gedung pertama boleh punya lantai 13? (ARN-42)
+Tayang Kam 12 Nov 2026 18.00 WIB · ±105 dtk (toleransi 90–110) · 230 kata @2,2 kata/dtk · suara Kapten Jarwo (logat Makassar)
+Judul layar (frame 0): Lantai 13 DIHAPUS?
+Label pojok mulai dtk 3: RAPAT WARGA + PENDUDUK 449 (Metricool, data terakhir 10 Nov; ganti dengan angka terbaru bila ada)
+
+[A1 · 0–3 dtk · HOOK]
+VO: Lift yang kamu naiki, bisa jadi bohong.
+Visual: frame 0 close-up panel tombol lift raksasa + judul "Lantai 13 DIHAPUS?" (kuning: DIHAPUS). Jari Jarwo tekan 12, indikator digital bergerak 11 → 12 → 14 di dtk ~2 (angka 13 terlewat). Kumis Jarwo berdiri, ganti ke wajah kaget di dtk ~1,5. Tanpa label/logo di dtk 0–3.
+
+[A2 · 3–6 dtk · JANJI]
+VO: Di akhir video, kamu yang putuskan nasibnya.
+Visual: Jarwo di pantai memegang dayung seperti palu sidang; label RAPAT WARGA + counter PENDUDUK 449 masuk di pojok. Teks kecil "Voting di akhir 🗳️".
+
+[A3 · 6–12 dtk · KONTEKS]
+VO: Begini, warga. Saya mau bangun gedung pertama pulau. Tiga belas lantai, biar gagah!
+Visual: Jarwo membentangkan denah gedung 13 lantai di pasir, gedung hologram/maket tumbuh lantai demi lantai. Teks kecil dtk 10–15: "Follow = jadi penduduk + KTP".
+
+[A4 · 12–19 dtk · PENGAIT 1]
+VO: Tapi katalog lift hanyut ini bilang, lantai tiga belas sering tidak ada. Haa? Ke mana?
+Visual: botol/katalog "LIFT" terdampar ombak, Jarwo membuka halaman; panel tombol di katalog tanpa angka 13. Jarwo celingukan mencari lantai yang hilang.
+
+[A5 · 19–28 dtk · INTI New York]
+VO: Di New York, ada enam ratus dua puluh sembilan gedung tinggi. Yang pasang tombol tiga belas? Cuma lima puluh lima.
+Visual: skyline New York, 629 gedung jadi deretan kotak; hanya 55 yang menyala kuning. Kartu sumber: "CityRealty 2015 via StreetEasy, 9 Mar 2020".
+
+[A6 · 28–34 dtk]
+VO: Lantainya tetap ada ji. Cuma tombolnya dilompati, dari dua belas langsung empat belas.
+Visual: potongan gedung (cutaway), lantai ke-13 tetap ada tapi plangnya "14"; panel 12 → 14.
+
+[A7 · 34–40 dtk · PENGAIT 2]
+VO: Kenapa? Sebagian orang Amerika dan Eropa menganggap tiga belas angka sial. Seberapa banyak?
+Visual: angka 13 besar, Jarwo menjauh pelan sambil sopan mengangguk. Teks kecil: "triskaidekafobia = takut angka 13".
+
+[A8 · 40–47 dtk]
+VO: Survei Gallup: tiga belas persen orang Amerika risih menginap di lantai tiga belas. Pas, kodong.
+Visual: counter persen bergerak 0 → 13%, kamar hotel lantai 13. Kartu sumber: "Survei USA Today/Gallup, 15 Mar 2007". Jarwo garuk kepala di "Pas, kodong."
+
+[A9 · 47–52 dtk · PENGAIT 3]
+VO: Nah, itu baru tiga belas. Di Hong Kong, yang dihindari angka empat.
+Visual: whoosh ke skyline Hong Kong; angka 4 besar muncul.
+
+[A10 · 52–60 dtk]
+VO: Dalam bahasa Kanton, empat bunyinya mirip mati. Ada gedung tanpa lantai empat, empat belas, dua puluh empat.
+Visual: teks "四 sei = 死 sei" kecil (hormat, tanpa tengkorak/hantu); panel lift 3, 5, 6 … 13?, 15 … 23, 25. Kartu sumber: "Zolima CityMag, 16 Okt 2019".
+
+[A11 · 60–68 dtk · PENGAIT 4]
+VO: Yang paling bikin kaget? Ada gedung empat puluh enam lantai. Tombol paling atasnya: delapan puluh delapan, angka hoki!
+Visual: gedung 46 lantai, indikator lift loncat 68 → 88; Jarwo melongo. Kartu sumber: "39 Conduit Road · SCMP, Okt 2009".
+
+[A12 · 68–75 dtk]
+VO: Ededeh. Lalu pemerintahnya bikin aturan: yang boleh dilompati cuma empat, tiga belas, dan berakhiran empat.
+Visual: dokumen aturan dengan stempel; daftar "4 ✓ 13 ✓ …4 ✓ lainnya ✗". Kartu sumber: "Buildings Department HK, news.gov.hk 16 Apr 2010".
+
+[A13 · 75–83 dtk · PAYOFF Jakarta]
+VO: Di Jakarta? Ada juga. Gedung di Kuningan: lantai empat jadi tiga A, tiga belas jadi dua belas A.
+Visual: panel lift kantor Jakarta: 3, 3A, 5 … 12, 12A, 14. Kartu sumber: "The Jakarta Post, 8 Nov 2010".
+
+[A14 · 83–90 dtk · KUNCI]
+VO: Bukan soal benar atau salah, tapi soal bikin orang nyaman. Lift-nya tidak bohong. Cuma sopan.
+Visual: kembali ke panel lift frame 0; lift berbunyi "ting", pintu terbuka, Jarwo membungkuk sopan ke lift.
+
+[A15 · 90–97 dtk · VOTING]
+VO: Sekarang gedung kita. Komen tiga belas: lantai tiga belas tetap ada. Komen dua belas A: dihapus.
+Visual: maket gedung pulau di tengah, dua papan besar kiri-kanan: "13 = lantai 13 tetap ada" vs "12A = lantai 13 dihapus".
+
+[A16 · 97–105 dtk · CTA]
+VO: Komen terbanyak dibangun Sabtu. Follow biar jadi penduduk dan dapat KTP. Seribu penduduk, ada hadiah lagi!
+Visual: kalender "SABTU 14 NOV: DIBANGUN", contoh KTP Pulau Komen, counter penduduk 449 → target 1.000. Penutup logo kecil ≤1,5 dtk.

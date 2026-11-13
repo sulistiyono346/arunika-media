@@ -1,0 +1,44 @@
+ARN-45 · Hujan deras 1 jam di Jakarta = berapa liter air? · tayang Jum 13 Nov 2026 17.45 WIB
+Judul layar (frame 0): Seberapa BANYAK hujan sejam?
+Gaya: Flat 2D latar terang · 9:16 · VO Maliq Nganjuk · 116 kata · perkiraan ±53 dtk VO + penutup 1,5 dtk ≈ 54,5 dtk (±2,2 kata/dtk)
+Konten lepas (Sains) · tanpa visual korban banjir, tanpa menyalahkan pihak mana pun
+
+[1] 0–3,5 dtk · HOOK
+VO: Hujan sejam, atapmu ketiban tiga puluh delapan galon.
+Layar: frame 0 = Aru di bawah cutaway atap rumah, hujan deras mengguyur, Aru menengadah kaget. Teks: "Seberapa BANYAK hujan sejam?" (kuning: BANYAK). Galon-galon jatuh menumpuk di atap; counter galon 0 → 38 bergerak mulai dtk ~1,5–2,5. Visual berganti dtk ~1,5 (zoom ke counter). Tanpa label seri/logo/progress bar di dtk 0–3.
+
+[2] 3,5–8,5 dtk · JANJI
+VO: Itu baru satu atap. Kalau sejakarta? Coba tebak, berapa kolam olimpiade?
+Layar: kamera mundur dari satu atap ke deretan atap kota; satu kolam renang olimpiade dengan tanda tanya besar "? KOLAM".
+
+[3] 8,5–14 dtk
+VO: Patokannya dari BMKG: hujan sangat lebat, lebih dari dua puluh milimeter sejam.
+Layar: penggaris hujan / gelas ukur terisi sampai garis "20 mm"; kartu sumber "Hujan sangat lebat >20 mm/jam · BMKG, diakses 13 Nov 2026". Teks kecil dtk 10–15: "Follow @kabar.arunika buat hitungan harian".
+
+[4] 14–19,5 dtk · PENGAIT 1
+VO: Kedengarannya tipis. Padahal, di tiap meter persegi, itu dua puluh liter air.
+Layar: kotak 1 × 1 m di lantai, air setinggi 2 cm; air dituang ke 20 botol 1 liter berjejer. Subtitle sorot: "20 LITER".
+
+[5] 19,5–25,5 dtk
+VO: Atap tiga puluh enam meter persegi? Tujuh ratus dua puluh liter. Sejam saja.
+Layar: atap rumah Aru dibagi 36 kotak, tiap kotak mengisi botol; counter 0 → 720 liter. Teks kecil "*ilustrasi: atap 36 m²".
+
+[6] 25,5–31 dtk · PENGAIT 2
+VO: Nah, sekarang seluruh Jakarta: enam ratus enam puluh satu kilometer persegi daratan.
+Layar: zoom out ke peta siluet DKI Jakarta (flat, tanpa genangan/korban), grid menyala; angka "660,98 km²"; kartu sumber "BPS, Luas Daerah Menurut Provinsi (data 2022)".
+
+[7] 31–36,5 dtk
+VO: Kalau merata, kalikan dua puluh liter tadi: tiga belas miliar liter. Sejam!
+Layar: "20 L × 661 juta m²" lalu counter besar 0 → 13.200.000.000 liter bergerak. Teks kecil "*jika hujan sangat lebat merata se-Jakarta selama 1 jam".
+
+[8] 36,5–42,5 dtk · PAYOFF
+VO: Satu kolam olimpiade: dua setengah juta liter. Jadi, lima ribu tiga ratus kolam!
+Layar: satu kolam "50 × 25 × 2 m = 2,5 juta L", lalu kolam berlipat memenuhi layar; counter kolam 1 → ±5.300. Aru melongo, "Hitung dulu!".
+
+[9] 42,5–48,5 dtk · TINDAKAN + KUNCI
+VO: Makanya, bersihkan talang sebelum puncak hujan. Tiga puluh delapan galon itu butuh jalan.
+Layar: kembali ke atap frame 0; Aru menyapu daun dari talang, Si Bocor tersangkut lucu di tumpukan daun lalu terlempar; air mengalir lancar turun lewat pipa. Counter galon 38 mengalir keluar.
+
+[10] 48,5–53 dtk · KOMENTAR
+VO: Talang rumahmu pernah meluap waktu hujan deras? Tulis di komentar!
+Layar: Aru menunjuk ke bawah, bubble komentar "Pernah / Belum". Penutup logo kecil ≤1,5 dtk (53–54,5).

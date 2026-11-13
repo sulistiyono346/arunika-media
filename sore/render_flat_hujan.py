@@ -339,7 +339,7 @@ def scene1(img, t):
     d = ImageDraw.Draw(img)
     u = eout((t - cs(5) + 0.15) / 0.7)                # kamera mundur
     cols, rows = 5, 3
-    gx = [200 + c * 170 for c in range(cols)]; gy = [600 + r * 150 for r in range(rows)]
+    gx = [212 + c * 164 for c in range(cols)]; gy = [600 + r * 150 for r in range(rows)]
     hc, hr = 2, 1
     if u > 0:
         for r in range(rows):
@@ -418,19 +418,19 @@ def scene2(img, t):
         T, td = card(380, 170, fill=WHITE)
         text_c(td, (190, 60), "patokan", F("pm", 34), GREY_T)
         text_c(td, (190, 118), "BMKG", F("pb", 70), NAVY)
-        paste_c(img, T, 760, 560, p)
+        paste_c(img, T, 740, 560, p)
     p = pop(t, cs(9) - 0.05)
     if p > 0:
         T, td = card(380, 230, fill=RED)
         text_c(td, (190, 70), "HUJAN", F("pb", 46), WHITE)
         text_c(td, (190, 150), "SANGAT LEBAT", fit("pb", 46, "SANGAT LEBAT", 340), YEL)
-        paste_c(img, T, 760, 800, p, -2)
+        paste_c(img, T, 740, 800, p, -2)
     p = pop(t, cs(10) + 0.1)
     if p > 0:
         T, td = card(380, 200, fill=YEL)
         text_c(td, (190, 80), ">20 mm", F("pb", 76), NAVY)
         text_c(td, (190, 155), "per jam", F("pb", 40), NAVY)
-        paste_c(img, T, 760, 1060, p, 2)
+        paste_c(img, T, 740, 1060, p, 2)
 
 
 def scene3(img, t):
@@ -491,17 +491,17 @@ def scene4(img, t):
         paste_c(img, T, W / 2, 740, p)
     p = pop(t, cs(17) - 0.1)
     if p > 0:
-        T, td = card(820, 230, fill=WHITE)
+        T, td = card(800, 230, fill=WHITE)
         v = 720 * eout((t - cs(17)) / 1.0)
         td.text((60, 115), num(round(v)), font=F("pb", 120), fill=NAVY, anchor="lm")
         td.text((360, 140), "LITER", font=F("pb", 60), fill=WATER_D, anchor="lm")
-        Hm.paste_c(T, Hm.galon(70), 640, 92)
-        td.text((700, 92), "≈ 38", font=F("pb", 44), fill=NAVY, anchor="lm")
+        Hm.paste_c(T, Hm.galon(70), 620, 92)
+        td.text((672, 92), "≈ 38", font=F("pb", 44), fill=NAVY, anchor="lm")
         td.text((640, 170), "galon 19 L", font=F("pm", 30), fill=GREY_T, anchor="mm")
         paste_c(img, T, W / 2, 1210, p)
     p = pop(t, cs(18))
     if p > 0:
-        paste_c(img, stamp("SEJAM SAJA", col=RED, size=58), 760, 1380, p, -8)
+        paste_c(img, stamp("SEJAM SAJA", col=RED, size=58), 700, 1380, p, -8)
 
 
 def jkt_pts(x0, y0, w, h): return [(x0 + a * w, y0 + b * h) for a, b in JKT]
@@ -563,15 +563,15 @@ def scene6(img, t):
     """kalau merata: 20 L × 661 juta m² = 13,2 miliar liter. Sejam!"""
     p = pop(t, SC[6] + 0.05)
     if p > 0:
-        T, td = head_card(820, 330, "KALAU MERATA SE-JAKARTA*", col=NAVY, size=42)
+        T, td = head_card(800, 330, "KALAU MERATA SE-JAKARTA*", col=NAVY, size=42)
         hot = t >= cs(24) - 0.05
-        td.rounded_rectangle((40, 140, 330, 290), 24, fill=WATER_L if hot else LIGHT, outline=NAVY, width=4)
-        text_c(td, (185, 200), "20 L", F("pb", 66), NAVY)
-        text_c(td, (185, 262), "per m²", F("pm", 28), GREY_T)
-        text_c(td, (380, 215), "×", F("pb", 80), RED if hot else GREY_T)
-        td.rounded_rectangle((430, 140, 780, 290), 24, fill=(255, 236, 180) if hot else LIGHT, outline=NAVY, width=4)
-        text_c(td, (605, 200), "661 juta", F("pb", 60), NAVY)
-        text_c(td, (605, 262), "m² daratan", F("pm", 28), GREY_T)
+        td.rounded_rectangle((30, 140, 320, 290), 24, fill=WATER_L if hot else LIGHT, outline=NAVY, width=4)
+        text_c(td, (175, 200), "20 L", F("pb", 66), NAVY)
+        text_c(td, (175, 262), "per m²", F("pm", 28), GREY_T)
+        text_c(td, (370, 215), "×", F("pb", 80), RED if hot else GREY_T)
+        td.rounded_rectangle((420, 140, 770, 290), 24, fill=(255, 236, 180) if hot else LIGHT, outline=NAVY, width=4)
+        text_c(td, (595, 200), "661 juta", F("pb", 60), NAVY)
+        text_c(td, (595, 262), "m² daratan", F("pm", 28), GREY_T)
         paste_c(img, T, W / 2, 640, p)
     if t >= cs(24):
         d = ImageDraw.Draw(img)
@@ -579,28 +579,28 @@ def scene6(img, t):
         arrow(d, W / 2, 830, W / 2, 830 + 120 * u, RED, w=20, head=44)
     p = pop(t, cs(25) - 0.1)
     if p > 0:
-        T, td = card(860, 300, fill=WHITE, outline=WATER_D, ow=7)
+        T, td = card(800, 300, fill=WHITE, outline=WATER_D, ow=7)
         v = 13_200_000_000 * eout((t - cs(25)) / 1.3)
         s_ = num(round(v / 1e6) * 1e6)
-        text_c(td, (430, 120), s_, fit("pb", 104, "13.200.000.000", 800), WATER_D)
-        text_c(td, (430, 230), "LITER  (±13,2 miliar)", F("pb", 44), NAVY)
+        text_c(td, (400, 120), s_, fit("pb", 104, "13.200.000.000", 740), WATER_D)
+        text_c(td, (400, 230), "LITER  (±13,2 miliar)", F("pb", 44), NAVY)
         paste_c(img, T, W / 2, 1100, p)
     p = pop(t, cs(26))
     if p > 0:
-        paste_c(img, stamp("SEJAM!", col=RED, size=76), 780, 1340, p, -10)
+        paste_c(img, stamp("SEJAM!", col=RED, size=76), 720, 1340, p, -10)
 
 
 def scene7(img, t):
     """1 kolam olimpiade = 50 × 25 × 2 m = 2,5 juta L -> 5.300 kolam."""
     p = pop(t, SC[7] + 0.05)
     if p > 0:
-        T, td = head_card(820, 380, "1 KOLAM OLIMPIADE", col=TEAL, size=44)
+        T, td = head_card(800, 380, "1 KOLAM OLIMPIADE", col=TEAL, size=44)
         pool(td, 60, 130, 330, 200, lanes=6, ow=5)
         td.text((440, 170), "50 × 25 × 2 m", font=F("pb", 40), fill=NAVY, anchor="lm")
         if t >= cs(28) - 0.05:
             q = clamp((t - cs(28) + 0.05) / 0.3)
-            td.rounded_rectangle((430, 225, 790, 320), 24, fill=YEL)
-            td.text((610, 272), "2,5 juta L", font=F("pb", int(50 * (0.6 + 0.4 * q))), fill=NAVY, anchor="mm")
+            td.rounded_rectangle((420, 225, 770, 320), 24, fill=YEL)
+            td.text((595, 272), "2,5 juta L", font=F("pb", int(50 * (0.6 + 0.4 * q))), fill=NAVY, anchor="mm")
         paste_c(img, T, W / 2, 640, p)
     t0 = cs(30) - 0.2
     if t >= t0:
@@ -613,7 +613,7 @@ def scene7(img, t):
         v = 5300 * eout((t - cs(30)) / 1.2)
         paste_c(img, pill(f"{num(max(1, round(v / 10) * 10))} KOLAM", fill=YEL, fg=NAVY, size=72, padx=44),
                 450, 1060, pop(t, cs(30)))
-    draw_aru(img, 880, 1450, 250, t)
+    draw_aru(img, 850, 1450, 240, t)
     if t >= cs(30) + 0.5:
         paste_c(img, bubble("hitung dulu!", size=38, tail="right"), 790, 1160, pop(t, cs(30) + 0.5))
 
@@ -623,12 +623,12 @@ def scene8(img, t):
     rain(img, t, n=50, col=(140, 165, 210), alpha=130, seed=21, length=60, width=4)
     d = ImageDraw.Draw(img)
     # atap (lereng) + talang + pipa turun
-    d.polygon([(60, 430), (960, 640), (960, 760), (60, 550)], fill=ROOF, outline=NAVY)
+    d.polygon([(130, 446), (950, 638), (950, 758), (130, 566)], fill=ROOF, outline=NAVY)
     for k in range(1, 8):
-        x = 60 + k * 112
-        d.line([(x, 430 + (x - 60) * 210 / 900), (x, 550 + (x - 60) * 210 / 900)], fill=(190, 78, 52), width=5)
-    d.line([(60, 550), (960, 760)], fill=NAVY, width=7)
-    gx0, gx1, gy0, gy1 = 100, 900, 780, 860
+        x = 130 + k * 102
+        d.line([(x, 446 + (x - 130) * 192 / 820), (x, 566 + (x - 130) * 192 / 820)], fill=(190, 78, 52), width=5)
+    d.line([(130, 566), (950, 758)], fill=NAVY, width=7)
+    gx0, gx1, gy0, gy1 = 140, 900, 780, 860
     clean = t >= cs(32) + 0.3
     flow = t >= cs(33) - 0.2
     d.rounded_rectangle((gx0, gy0, gx1, gy1), 16, fill=(160, 166, 180), outline=NAVY, width=6)
@@ -643,7 +643,7 @@ def scene8(img, t):
     if flow:
         for k in range(5):
             u = (t * 1.8 + k / 5) % 1.0
-            d.ellipse((px1 + 40 + u * 40, 1395 + u * 30, px1 + 58 + u * 40, 1413 + u * 30), fill=WATER)
+            d.ellipse((px1 + 20 + u * 16, 1395 + u * 30, px1 + 38 + u * 16, 1413 + u * 30), fill=WATER)
     # daun + Si Bocor tersangkut, lalu disapu
     r = random.Random(5)
     tc = cs(32)
@@ -694,20 +694,20 @@ def scene8(img, t):
         P = pill("   butuh jalan", fill=GREEN, fg=WHITE, size=46)
         icon_check(ImageDraw.Draw(P), 46, 45, 0.7, col=NAVY)
         paste_c(img, P, 420, 1300, pop(t, cs(35)))
-    draw_aru(img, 200, 1460, 230, t)
+    draw_aru(img, 240, 1460, 230, t)
 
 
 def scene9(img, t):
     """ajakan komentar: talang rumahmu pernah meluap? PERNAH / BELUM + usulan terpilih tampil di reel berikutnya."""
     p = pop(t, SC[9] + 0.05)
     if p > 0:
-        B = Image.new("RGBA", (860, 360), (0, 0, 0, 0)); bd = ImageDraw.Draw(B)
-        bd.rounded_rectangle((10, 12, 850, 312), 34, fill=(20, 33, 91, 45))
-        bd.rounded_rectangle((0, 0, 840, 300), 34, fill=WHITE, outline=NAVY, width=5)
+        B = Image.new("RGBA", (800, 360), (0, 0, 0, 0)); bd = ImageDraw.Draw(B)
+        bd.rounded_rectangle((10, 12, 790, 312), 34, fill=(20, 33, 91, 45))
+        bd.rounded_rectangle((0, 0, 780, 300), 34, fill=WHITE, outline=NAVY, width=5)
         bd.polygon([(110, 296), (180, 296), (90, 350)], fill=WHITE, outline=NAVY)
         bd.line([(112, 299), (178, 299)], fill=WHITE, width=8)
-        text_c(bd, (420, 95), "Talang rumahmu", F("pb", 62), NAVY)
-        text_c(bd, (420, 195), "pernah meluap?", F("pb", 62), RED if t >= cs(37) else NAVY)
+        text_c(bd, (390, 95), "Talang rumahmu", F("pb", 60), NAVY)
+        text_c(bd, (390, 195), "pernah meluap?", F("pb", 60), RED if t >= cs(37) else NAVY)
         paste_c(img, B, W / 2, 640, p)
     for k, (s, col, t0) in enumerate((("PERNAH", RED, cs(37) + 0.2), ("BELUM", TEAL, cs(38)))):
         q = pop(t, t0)
@@ -716,12 +716,12 @@ def scene9(img, t):
             paste_c(img, pill(s, fill=col, fg=WHITE, size=58, padx=50), 330 + k * 420, 925, q * beat, -2 + 4 * k)
     q = pop(t, cs(39) - 0.05)
     if q > 0:
-        T, td = card(820, 250, fill=NAVY)
-        text_c(td, (410, 70), "Tulis di komentar!", F("pb", 56), YEL)
-        text_c(td, (410, 148), "usulan \"hitung apa lagi?\" like terbanyak", F("pm", 32), WHITE)
-        text_c(td, (410, 200), "dihitung di reel berikutnya + namamu tampil", F("pm", 32), WHITE)
+        T, td = card(800, 250, fill=NAVY)
+        text_c(td, (400, 70), "Tulis di komentar!", F("pb", 56), YEL)
+        text_c(td, (400, 148), "usulan \"hitung apa lagi?\" like terbanyak", F("pm", 32), WHITE)
+        text_c(td, (400, 200), "dihitung di reel berikutnya + namamu tampil", F("pm", 32), WHITE)
         paste_c(img, T, W / 2, 1140, q)
-    draw_aru(img, 900, 1470, 190, t)
+    draw_aru(img, 850, 1470, 190, t)
 
 
 SCENES = [scene0, scene1, scene2, scene3, scene4, scene5, scene6, scene7, scene8, scene9]
@@ -774,7 +774,7 @@ def frame(t):
     la = clamp((t - CLOSE) / 0.3)
     if la > 0:
         paste_c(img, logo_w(300), W / 2, 1740, 0.9 + 0.1 * back(la), 0, la)
-    if t >= 3.0:   # progress bar: bukan di dtk 0-3 (PRB-34)
+    if t >= 3.5:   # progress bar: baru muncul dtk 3,5 (PRB-34, revisi QA 1)
         ImageDraw.Draw(img).rectangle((0, H - 14, int(W * t / TOTAL), H), fill=YEL)
     return img.convert("RGB")
 

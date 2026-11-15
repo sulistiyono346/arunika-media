@@ -1,0 +1,89 @@
+ARN-57 · Kok suaramu di rekaman terdengar aneh? · SORE Jumat 20 Nov 2026, upload 17.45 WIB
+Format "Kok?" · Kategori Sains · Seri Tunggal · Gaya Flat 2D latar terang (#F2F4F7 / krem #FFF6E8) · 9:16
+Tempo ±2,2 kata/dtk · 114 kata VO · perkiraan 51,8 dtk VO + penutup logo 1,5 dtk = ±53 dtk
+
+JUDUL LAYAR (teks frame 0): Suaramu, kok BEDA di rekaman?   (kata kunci kuning: BEDA)
+
+------------------------------------------------------------
+ADEGAN 1 · 0,0–3,2 dtk · HOOK
+VO: Suara di voice note-mu itu suara aslimu.
+Teks layar: Suaramu, kok BEDA di rekaman?
+Visual: Aru memegang HP raksasa yang memutar voice note, wajah meringis; Si Bocor di sebelahnya menekan tombol play sambil cekikikan. Angka besar "2" di gelombang suara bergerak turun jadi "1" di dtk ~2 (jalur suara). Visual berganti di dtk ~1,5 (zoom ke wajah Aru). Tanpa logo/label seri/HUD sampai dtk 3.
+
+ADEGAN 2 · 3,2–7,7 dtk · JANJI / LOOP
+VO: Yang kamu dengar tiap hari? Bukan. Coba tebak, kenapa beda?
+Teks layar: Coba TEBAK
+Visual: Aru menunjuk kepalanya sendiri, tanda tanya besar muncul. Logo kecil + header mulai tampil setelah dtk 3.
+
+ADEGAN 3 · 7,7–13,6 dtk · MOMEN DIKENALI
+VO: Kamu kirim voice note, dengar ulang, lalu hapus? Padahal itu yang didengar temanmu.
+Teks layar: dengar ulang → HAPUS
+Teks kecil (dtk 10–15): Follow @kabar.arunika buat "kok?" berikutnya
+Visual: Layar chat grup; voice note 0:07 terkirim, Aru dengar ulang lalu jempol menekan "hapus untuk semua". Teman-teman di grup (siluet) mengangguk: "ya memang begitu suaramu".
+
+ADEGAN 4 · 13,6–19,5 dtk · PENGAIT ULANG + JAWABAN 1
+VO: Kok bisa? Suaramu sampai ke telingamu lewat dua jalur: udara, dan tulang kepala.
+Teks layar: DUA jalur
+Visual: Potongan kepala Aru (cutaway flat): panah toska lewat udara (mulut → lubang telinga), panah kuning lewat tulang tengkorak → telinga dalam.
+Sumber di layar: Scientific American · Timothy E. Hullar, Washington University School of Medicine
+
+ADEGAN 5 · 19,5–25,4 dtk · JAWABAN 2
+VO: Uniknya, kepalamu memperkuat getaran nada rendah. Jadi dari dalam, suaramu terdengar lebih berat.
+Teks layar: lebih BERAT
+Visual: Panah kuning (tulang) menebal, gelombang suara di kepala Aru jadi besar dan dalam; Aru bergaya penyiar bersuara berat.
+Sumber di layar: Scientific American · Timothy E. Hullar
+
+ADEGAN 6 · 25,4–30,9 dtk · PAYOFF (puncak)
+VO: Mikrofon cuma menangkap jalur udara. Jalur tulangnya hilang, suaramu jadi terasa asing.
+Teks layar: 2 jalur → 1 jalur
+>>> TEKS LAYAR AJAKAN KIRIM (tepat di puncak, dtk 27–31): "Kirim ke teman yang benci dengar voice note sendiri" <<<
+Visual: Mikrofon HP menangkap panah toska saja; panah kuning putus dan memudar. Angka "1" besar kembali (callback frame 0). Aru kaget, Si Bocor menutup mulut menahan tawa.
+Sumber di layar: Scientific American · Discover Magazine, 29 Mei 2021
+
+ADEGAN 7 · 30,9–35,0 dtk · BANTAHAN KUBU SEBELAH
+VO: Tapi kan suaraku di rekaman memang jelek? Belum tentu.
+Teks layar: memang JELEK?
+Visual: Si Bocor mengangkat papan "TIM REKAMAN JELEK"; Aru menggeleng, jari telunjuk "eits".
+
+ADEGAN 8 · 35,0–40,0 dtk · BUKTI
+VO: Studi dua ribu tiga belas menyelipkan rekaman suara peserta sendiri, diam-diam.
+Teks layar: 80 orang · suaranya DISELIPKAN
+Visual: Deretan headphone; di antara banyak gelombang suara, satu gelombang berlabel "punyamu" disisipkan tanpa tanda.
+Sumber di layar: Hughes & Harrison, jurnal Perception, 2013 · ScienceDaily 12 Sep 2013
+
+ADEGAN 9 · 40,0–45,9 dtk · PAYOFF BUKTI
+VO: Hasilnya? Mereka menilai suara sendiri lebih menarik. Yang bikin risih mungkin cuma kaget.
+Teks layar: lebih MENARIK
+Visual: Skor bintang naik untuk gelombang "punyamu"; Aru tersipu, Si Bocor kecewa menurunkan papannya.
+Sumber di layar: Hughes & Harrison, Perception, 2013
+
+ADEGAN 10 · 45,9–51,8 dtk · JALAN TENGAH + TINDAKAN + PERTANYAAN DUA KUBU
+VO: Dua-duanya suaramu. Putar voice note-mu lagi malam ini. Suara aslimu: kepala, atau rekaman?
+Teks layar: KEPALA atau REKAMAN?
+Visual: Layar dibelah dua: kiri Aru dengan gelombang besar di kepala (TIM KEPALA), kanan HP dengan gelombang tipis (TIM REKAMAN). Aru memutar voice note dan tersenyum.
+
+PENUTUP · 51,8–53,3 dtk (≤1,5 dtk, tanpa VO baru)
+Logo Wordmark Bendera kecil + teks "Tim KEPALA atau tim REKAMAN? Tulis di komentar"
+
+------------------------------------------------------------
+NASKAH SUARA (untuk ElevenLabs, angka ditulis huruf)
+
+Suara di voice note-mu itu suara aslimu.
+
+Yang kamu dengar tiap hari? Bukan. Coba tebak, kenapa beda?
+
+Kamu kirim voice note, dengar ulang, lalu hapus? Padahal itu yang didengar temanmu.
+
+Kok bisa? Suaramu sampai ke telingamu lewat dua jalur: udara, dan tulang kepala.
+
+Uniknya, kepalamu memperkuat getaran nada rendah. Jadi dari dalam, suaramu terdengar lebih berat.
+
+Mikrofon cuma menangkap jalur udara. Jalur tulangnya hilang, suaramu jadi terasa asing.
+
+Tapi kan suaraku di rekaman memang jelek? Belum tentu.
+
+Studi dua ribu tiga belas menyelipkan rekaman suara peserta sendiri, diam-diam.
+
+Hasilnya? Mereka menilai suara sendiri lebih menarik. Yang bikin risih mungkin cuma kaget.
+
+Dua-duanya suaramu. Putar voice note-mu lagi malam ini. Suara aslimu: kepala, atau rekaman?

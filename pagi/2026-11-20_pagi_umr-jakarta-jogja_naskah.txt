@@ -1,0 +1,46 @@
+[0,0–3,2] Gajimu dobel di Jakarta. Sisanya? Belum tentu.
+[3,2–5,9] Coba tebak, siapa sisa lebih banyak?
+[5,9–9,5] Kamu pasti kenal teman yang mudik dari Jakarta,
+[9,5–11,8] langsung ditanya pakde, "Gajinya berapa?"
+[11,8–15,0] UMP Jakarta: lima koma tujuh tiga juta.
+[15,0–18,6] UMK Kota Jogja: dua koma delapan tiga juta.
+[18,6–20,9] Tapi tiga pos langsung antre.
+[20,9–23,6] Kos standar Jakarta: satu setengah juta.
+[23,6–27,7] Makan warteg dua kali sehari: satu koma dua juta.
+[27,7–31,3] Plus TransJakarta, sisa hampir dua koma sembilan juta.
+[31,3–36,3] Jogja: kos enam ratus ribu, makan sembilan ratus ribu, plus bus.
+[36,3–38,6] Sisa satu koma dua juta.
+[38,6–41,8] Jakarta sisa dua kali lipat lebih. Selesai?
+[41,8–43,6] Tunggu, tim Jogja menjawab.
+[43,6–47,2] Kalau kosmu dua juta dan tiap hari ojol,
+[47,2–51,8] sisanya tinggal satu koma nol tiga juta. Kalah dari Jogja.
+[51,8–55,9] Tim Jakarta balas: kos pinggiran mulai tujuh ratus ribu.
+[55,9–59,5] Jadi penentunya bukan gaji, tapi kos dan ongkos.
+[59,5–62,2] Sebelum merantau, cek kos dekat halte.
+[62,2–66,7] Dekat halte? Jakarta unggul. Tiap hari ojol? Jogja bisa menang.
+[66,7–71,4] Kamu tim merantau ke Jakarta, atau tim bertahan di Jogja?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Tempo: 157 kata, ±2,2 kata/dtk → ±71,4 dtk (target 65–72). VO tidak dipercepat/diperlambat. Gaya Flat 2D latar terang (#F2F4F7 / krem #FFF6E8).
+Judul layar (frame 0, pill kecil, bukan kartu judul besar): "Jakarta vs Jogja, SISA mana?" (SISA kuning).
+Frame 0 (PRB-34/36, satu fokus): satu slip gaji raksasa memenuhi layar; Aru memegangnya dengan dua tangan, Si Bocor menggigit ujung slip, koin jatuh ("cring!"). Satu counter besar di slip: Rp0 naik cepat dan BERHENTI di "Rp5.729.876" pada dtk 2,0. Visual ganti di dtk ~1,5 (slip terbelah dua: kiri Monas kecil, kanan Tugu Jogja kecil, keduanya digambar netral dan sama ramahnya). Label seri/logo baru setelah dtk 3.
+Adegan 2: dua dompet bersisian dengan tanda "?" di atasnya.
+Adegan 3–4: pill "Kamu pasti kenal 👀" · teman turun dari bus mudik bawa tas besar; ruang tamu keluarga, pakde di kursi dengan balon kata "Gajinya berapa?" (lucu, hangat, bukan sindiran).
+Adegan 5 (dtk 10–15): teks kecil "Follow @kabar.arunika".
+Adegan 5: angka besar "Rp5.729.876" · sumber kecil "UMP DKI Jakarta 2026 · Metro TV, 24 Des 2025".
+Adegan 6: angka besar "Rp2.827.593" · sumber kecil "UMK Kota Yogyakarta 2026 · Jawa Pos, 24 Des 2025".
+Adegan 7: tiga ikon antre di depan slip gaji: 🏠 kos · 🍛 makan · 🚌 ongkos.
+Adegan 8: "Rp1.500.000" kos standar (kamar mandi dalam + Wi-Fi) · sumber kecil "Dealls, diperbarui 15 Des 2025".
+Adegan 9: "Rp20.000 × 2 × 30 = Rp1.200.000" · sumber kecil "warteg Rp20–30 rb/porsi · Dealls, 15 Des 2025".
+Adegan 10: "TransJakarta Rp3.500 × 2 × 22 hari = Rp154.000" lalu angka besar sisa "Rp2.875.876".
+Adegan 11 (tiga kartu kecil muncul bergantian tiap ±1,6 dtk): "Kos sederhana Rp600.000 · Mojok, 19 Jun 2025" · "Makan Rp15.000 × 2 × 30 = Rp900.000 · Dealls, 15 Des 2025" · "Trans Jogja Rp2.700 × 2 × 22 = Rp118.800 · GridOto, 1 Jan 2026".
+Adegan 12: angka besar sisa "Rp1.208.793".
+Adegan 13 (dtk ±39–42, PUNCAK): timbangan dua dompet, sisi Jakarta turun: "Rp2,88 jt vs Rp1,21 jt". ★ AJAKAN KIRIM (teks layar): "Kirim ke teman yang mau merantau ke Jakarta 📤"
+Adegan 14: layar terbelah tim JOGJA vs tim JAKARTA (warna netral, tanpa ejekan).
+Adegan 15–16: kos "Rp2.000.000" (batas atas kos standar, Dealls) + Si Bocor membonceng ojol sambil menjatuhkan koin · "ojol Rp1–2 jt/bulan, dipakai Rp1,5 jt · Dealls, 15 Des 2025" · sisa "Rp1.029.876" < Rp1.208.793 (timbangan berbalik).
+Adegan 17: kos pinggiran "mulai Rp700.000 · Dealls, 15 Des 2025".
+Adegan 18: dua pos menyala kuning: KOS + ONGKOS; slip gaji meredup.
+Adegan 19: Aru menunjuk peta kecil: kos + ikon halte berjarak dekat. Pill "Cek sebelum merantau".
+Adegan 20: timbangan: dekat halte → JAKARTA unggul; ojol tiap hari → JOGJA bisa menang.
+Adegan 21 (terakhir): pill "Tim JAKARTA atau tim JOGJA? Komen!" · logo kecil ≤1,5 dtk · teks kecil "*contoh hitungan ilustrasi, bukan saran keuangan". Tidak ada adegan/teks soal komentar part sebelumnya.
+Catatan hitungan: satu orang, makan warung 2× sehari × 30 hari, transport PP 22 hari kerja; tagihan listrik/air, pulsa, dan ongkos mudik tidak dihitung.

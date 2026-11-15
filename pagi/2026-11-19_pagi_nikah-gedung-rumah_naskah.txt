@@ -1,0 +1,35 @@
+[0,0–2,6] Kamu bisa nombok gara-gara tenda biru.
+[2,6–4,8] Coba tebak, bocornya di mana?
+[4,8–8,3] Kamu pasti kenal: tetangga bantu masak sejak subuh,
+[8,3–10,0] tante nanya, "Kapan nyusul?"
+[10,0–14,3] Katanya rumah sendiri gratis. Masalahnya, rumah nggak datang bersama kursi.
+[14,3–17,0] Contoh tiga ratus tamu di Bekasi.
+[17,0–20,9] Tenda dua ratus meter persegi: enam koma enam juta.
+[20,9–23,9] Tiga ratus kursi: empat koma dua juta.
+[23,9–27,4] Genset dan sound: lima koma lima lima juta.
+[27,4–31,3] Belum ada nasi sebutir, sudah enam belas juta lebih.
+[31,3–36,1] Padahal ada gedung siang di Bekasi yang disewa enam setengah juta.
+[36,1–37,8] Selisihnya hampir sepuluh juta.
+[37,8–40,0] Tapi tim rumah punya jawaban.
+[40,0–43,0] Kursi bisa pinjam RT, tenda patungan keluarga.
+[43,0–47,4] Dan tetangga yang bantu masak nggak ada di paket gedung.
+[47,4–52,6] Tim gedung balas: empat jam beres, tanpa tutup jalan, tanpa cuci piring.
+[52,6–55,7] Jalan tengahnya, sebelum DP, tanyakan tiga hal.
+[55,7–60,9] Kursi dan sound termasuk? Lewat jam, dendanya berapa? Boleh bawa katering sendiri?
+[60,9–66,5] Kursi dan tenda bisa dipinjam? Rumah menang. Semua sewa? Gedung bisa lebih hemat.
+[66,5–69,6] Kamu tim gedung, atau tim di rumah?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Tempo: 160 kata, dihitung ±2,3 kata/dtk (tempo nyata Maliq: 168 kata = 72,8 dtk; 153 kata = 63,6 dtk) → ±69,6 dtk (target 65–72). VO tidak dipercepat/diperlambat.
+Frame 0 (PRB-36, satu fokus, TANPA kartu judul besar): rumah dengan tenda biru besar memenuhi layar; Aru berdiri di bawah tenda menatap ke atas, Si Bocor di atap tenda menggigit tali, koin jatuh ("cring!"). Satu counter besar di tengah: Rp0 naik cepat dan BERHENTI di "Rp16.350.000" pada dtk 2,0 (nilai akhir = total pos pendamping, dibahas ulang di adegan 10). Judul layar hanya pill kecil: "Nikah di RUMAH, hemat?" (RUMAH kuning). Label seri/logo baru setelah dtk 3. Visual ganti di dtk ~1,5.
+Adegan 3–4: pill "Kamu pasti kenal 👀" · tetangga mengaduk kuali besar di dapur (subuh, jam "04.30"), lalu tante di kursi tamu dengan balon kata "Kapan nyusul?" (lucu, bukan sindiran).
+Adegan 5 (dtk 10–15): teks kecil "Follow @kabar.arunika" · rumah "GRATIS" dicap, lalu halaman kosong tanpa kursi.
+Adegan 6: label kecil "*contoh ilustrasi: 300 tamu, tenda 10×20 m, 300 kursi".
+Adegan 7–9 (satu angka per adegan): Rp6.600.000 (200 m² × Rp33.000, tenda serut) · Rp4.200.000 (300 × Rp14.000, kursi Futura + cover) · Rp5.550.000 (genset silent 60 kVA Rp2,8 jt + sound 3000 W Rp2,75 jt). Sumber kecil di bawah tiap angka: "Harga estimasi PestaHub Bekasi Barat, 15 Mar 2026".
+Adegan 10: struk panjang total Rp16.350.000 + piring kosong (belum termasuk katering).
+Adegan 11: gedung + label Rp6.500.000 · sumber kecil "Sewa gedung siang di Bekasi ±Rp6,5 jt · Popbela, 3 Des 2025 · isi sewa beda tiap gedung".
+Adegan 12 (dtk ±36–38, PUNCAK): angka besar "≈ Rp9.850.000" (selisih, belum termasuk katering). ★ AJAKAN KIRIM (teks layar): "Kirim ke pasangan / teman yang mau nikah tahun depan 📤"
+Adegan 13–16: layar terbelah tim RUMAH vs tim GEDUNG; kursi pinjaman RT + tenda patungan; tetangga masak (callback adegan 3); jam dinding "4 jam", jalan tidak ditutup, tumpukan piring dicoret.
+Adegan 17–18: tiga kartu muncul bergantian (ganti tiap ±1,7 dtk): "1. Kursi & sound termasuk?" · "2. Denda lewat jam?" · "3. Boleh bawa katering sendiri?" · pill "Tanya sebelum DP".
+Adegan 19: timbangan: kursi+tenda pinjam → RUMAH menang (±Rp5,55 jt vs ±Rp6,5 jt); semua sewa → GEDUNG lebih hemat.
+Adegan 20 (terakhir): pill "Tim GEDUNG atau tim RUMAH? Komen!" · logo kecil ≤1,5 dtk · teks kecil "bukan saran keuangan". Tidak ada adegan/teks soal komentar part sebelumnya.

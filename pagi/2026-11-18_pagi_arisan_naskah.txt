@@ -1,0 +1,36 @@
+[0,0–3,0] Kamu paling rugi kalau dapat arisan terakhir.
+[3,0–4,3] Coba tebak, berapa?
+[4,3–8,7] Kamu pasti kenal: gelas dikocok, "Bu Yanti!" Semua tepuk tangan.
+[8,7–12,6] Dan selalu ada satu nama yang keluar paling akhir.
+[12,6–17,8] Misalnya sepuluh orang, iuran lima ratus ribu, tiap bulan cair lima juta.
+[17,8–21,3] Yang pertama kayak pinjam lima juta tanpa bunga.
+[21,3–24,8] Yang terakhir? Menabung sepuluh bulan, juga tanpa bunga.
+[24,8–28,7] Padahal bunga penjaminan LPS tiga koma tujuh lima persen.
+[28,7–32,6] Setor sendiri lima ratus ribu ke deposito tiap bulan,
+[32,6–36,1] bulan kesepuluh dapat bunga sekitar tujuh puluh ribu.
+[36,1–39,1] Si nomor satu kebalikannya, untung kira-kira segitu.
+[39,1–43,5] Jarak yang pertama dan yang terakhir: seratus empat puluh ribu.
+[43,5–48,3] Tapi tim arisan punya alasan: tanpa kocokan, uangnya habis buat jajan.
+[48,3–51,3] Arisan itu rem. Malu kalau telat setor.
+[51,3–55,2] Dan kumpul sebulan sekali nggak bisa dihitung pakai bunga.
+[55,2–59,1] Tim nabung sendiri balas: remnya cukup autodebet tanggal gajian.
+[59,1–62,6] Jalan tengahnya: butuh uang cepat, minta urutan awal.
+[62,6–66,1] Nggak buru-buru? Ikut buat kumpulnya, sisanya nabung sendiri.
+[66,1–69,6] Kamu tim dapat duluan, atau tim dapat belakangan?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Tempo: 160 kata, dihitung ±2,3 kata/dtk (tempo nyata Maliq: 168 kata = 72,8 dtk; 153 kata = 63,6 dtk) → ±69,6 dtk (rentang seri 65–72). VO tidak dipercepat/diperlambat. 19 adegan, tiap adegan ≤6 dtk.
+Frame 0 (PRB-36, satu fokus, TANPA kartu judul besar): Aru membuka satu gulungan kertas arisan besar bertuliskan "10" (urutan terakhir), wajah kaget; Si Bocor di sampingnya menggerogoti koin emas ("kriuk!"). Satu counter besar di atas gulungan: dari Rp0 turun dan BERHENTI di "−Rp7?.???" pada dtk 2,0 (nilai akhir −Rp70.300 baru dibuka di adegan 10, dtk ±33–36). Judul layar hanya pill kecil: "Urutan arisan, diam-diam MAHAL" (MAHAL kuning). Label seri/logo baru setelah dtk 3. Visual ganti di dtk ~1,5.
+Adegan 3–4: gelas kocokan arisan ibu-ibu, gulungan jatuh, balon kata "Bu Yanti!" + tepuk tangan; lalu satu kursi/nama yang belum keluar (pill "Kamu pasti kenal dia 👀").
+Adegan 4 (dtk 10–15): teks kecil "Follow @kabar.arunika".
+Adegan 5 (tiga angka, tampil bertahap 3 ketukan): "10 orang" → "Rp500.000/bulan*" → "cair Rp5.000.000" · catatan kecil "*angka contoh ilustrasi".
+Adegan 6–7: dua kartu bersisian NO. 1 "= pinjam tanpa bunga" vs NO. 10 "= nabung tanpa bunga".
+Adegan 8: kartu 3,75% + sumber kecil "Bunga penjaminan LPS bank umum, periode 1 Okt 2026–Jan 2027 · detikFinance 3 Nov 2026 · bunga tiap bank bisa lebih rendah".
+Adegan 9–10: celengan/deposito terisi Rp500 rb tiap bulan (kalender 1→10), angka "±Rp70.300" + catatan kecil "bunga 3,75%/thn, setor awal bulan selama 10 bulan, sebelum pajak, dibulatkan". Si Bocor menggondol koin "+Rp70 rb" dari tangan si nomor 10 ("cring!").
+Adegan 11: si nomor 1 menaruh Rp5 jt di deposito, bayar iuran dari situ → "+Rp70 rb".
+Adegan 12 (dtk ±39–43, PUNCAK): angka besar "±Rp140 RIBU" + catatan kecil "selisih no. 1 vs no. 10 (Rp140.625), contoh ilustrasi, dibulatkan". ★ AJAKAN KIRIM (teks layar): "Kirim ke grup arisanmu 📤 (atau ke ibumu)"
+Adegan 13–15: layar terbelah tim ARISAN (gelas kocokan, rem, kumpul-kumpul) vs tim NABUNG SENDIRI.
+Adegan 16: HP notifikasi "Autodebet Rp500.000 · tgl 25" (tanggal contoh).
+Adegan 17–18: dua jalur: "Butuh cepat → minta urutan AWAL" / "Nggak buru-buru → kumpulnya ikut, nabung sendiri".
+Adegan 19 (terakhir): pill "Tim DULUAN atau tim BELAKANGAN? Komen!" · logo kecil ≤1,5 dtk. Tidak ada adegan/teks soal komentar part sebelumnya.
+Hitungan: bunga 0,0375/12 × Rp500.000 × (9+8+…+0 = 45 bulan-setoran) = Rp70.312,5 → "sekitar tujuh puluh ribu"; si nomor 1 simetris (saldo 4,5 jt → 0 selama 9 bulan) ±Rp70.312; selisih ±Rp140.625 (VO: seratus empat puluh ribu).

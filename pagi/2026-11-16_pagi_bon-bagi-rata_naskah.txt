@@ -1,0 +1,25 @@
+[0,0–2,7] Kamu bayar dua kali lipat pesananmu.
+[2,7–5,5] Coba tebak, setahun kamu nombok berapa?
+[5,5–10,9] Satu meja, empat orang. Nasi goreng plus es tehmu: tiga puluh ribu.
+[10,9–16,4] Terus ada dia: yang selalu pesan paling mahal. Seratus dua puluh ribu.
+[16,4–21,8] Total dua ratus empat puluh ribu. Lalu dia yang bilang, "Patungan ya!"
+[21,8–26,4] Bagi rata, masing-masing enam puluh ribu. Padahal pesananmu cuma setengahnya.
+[26,4–30,0] Kamu nombok tiga puluh ribu. Kecil? Tunggu dulu.
+[30,0–34,1] Kalau nongkrongnya seminggu sekali, sebulan seratus dua puluh ribu.
+[34,1–37,7] Setahun? Satu juta lima ratus enam puluh ribu.
+[37,7–43,6] Tapi tim bagi rata punya alasan. Hitung per orang di kasir itu ribet.
+[43,6–47,7] Minggu depan, bisa jadi kamu yang pesan paling mahal.
+[47,7–50,9] Lagian, nongkrong itu soal teman, bukan kalkulator.
+[50,9–55,9] Tim bayar masing-masing balas: teman yang baik nggak bikin temannya nombok.
+[55,9–61,4] Jadi jalan tengahnya: camilan bareng dibagi rata, makanan dan minuman bayar masing-masing.
+[61,4–65,9] Sepakati sebelum pesan, biar nasi goreng bayar harga nasi goreng.
+[65,9–69,5] Kamu tim bagi rata, atau tim bayar masing-masing?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Frame 0 (judul layar): Seberapa ADIL bagi rata?  · Aru pegang piring nasi goreng kecil di depan bon raksasa; Si Bocor menarik koin dari dompet Aru ke bon ("cring!"); counter Rp30.000 → Rp60.000 bergerak di dtk ~2. Label seri/logo baru setelah dtk 3.
+Dtk 10–15 (adegan 3–4): teks kecil "Follow @kabar.arunika" · Adegan 4: pill "Kamu pasti kenal dia 👀" (teman yang selalu pesan paling mahal; steak + kopi susu).
+Adegan 5: balon kata "Patungan ya!" di depan kasir.
+Angka adegan 3–9: catatan kecil di bawah angka "*angka contoh ilustrasi".
+Adegan 9 (dtk 34,1–37,7, PUNCAK, Rp1.560.000/tahun = 52× nongkrong): ★ AJAKAN KIRIM: "Kirim ke teman yang selalu pesan paling mahal 📤"
+Adegan 10–13: layar terbelah tim BAGI RATA vs tim BAYAR MASING-MASING.
+Adegan 16 (terakhir): pill "Tim RATA atau tim MASING-MASING? Komen!" + teks kecil "Makasih @knarkha (#7): 'Nabung soalnya kalo kredit kita dihantui oleh cicilan'" (screenshot: assets/komentar/2026-11-14_mlh7_knarkha.png) · logo kecil.

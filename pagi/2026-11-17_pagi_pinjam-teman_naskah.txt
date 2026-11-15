@@ -1,0 +1,32 @@
+[0,0–2,9] Uangmu di tangan teman, tiap bulan mengecil.
+[2,9–5,0] Coba tebak, setahun hilang berapa?
+[5,0–9,6] Kamu pasti kenal dia. Pinjam satu juta: "Bulan depan ya, pasti!"
+[9,6–13,8] Bulan depan lewat. Tiga bulan lewat. Dia malah posting liburan.
+[13,8–16,7] Setahun kemudian, uangmu balik utuh. Aman, kan?
+[16,7–21,7] Tunggu dulu. Inflasi tahunan BPS Oktober lalu: tiga koma dua tiga persen.
+[21,7–25,4] Kalau harga naik segitu, daya beli satu jutamu tinggal…
+[25,4–27,9] sembilan ratus enam puluh delapan ribu.
+[27,9–31,7] Tiga puluh satu ribu menguap, tanpa ada yang nyolong.
+[31,7–35,8] Belum selesai. Di deposito berbunga tiga koma tujuh lima persen,
+[35,8–40,0] satu jutamu malah tumbuh tiga puluh tujuh ribu lima ratus.
+[40,0–43,3] Jadi dia pinjam tanpa bunga, kamu yang nanggung.
+[43,3–47,1] Tapi tim nunggu punya alasan. Nagih teman itu canggung.
+[47,1–50,4] Tiga puluh ribuan nggak sebanding dengan pertemanan bertahun-tahun.
+[50,4–52,9] Lagian, dia juga pernah nolongin kamu.
+[52,9–57,9] Tim langsung tagih balas: justru karena teman, jangan biarkan utang jadi ganjalan.
+[57,9–61,7] Jalan tengahnya: ubah "bulan depan" jadi tanggal, sejak awal.
+[61,7–65,8] Lewat tanggal, ingatkan santai lewat chat pribadi, bukan sindiran grup.
+[65,8–70,0] Kamu tim langsung tagih, atau tim nunggu dia ingat sendiri?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Tempo: 168 kata, dihitung ±2,4 kata/dtk (tempo nyata Maliq dari VO bon-bagi-rata: 153 kata = 63,6 dtk) → ±70 dtk. Pada 2,2 kata/dtk ±76 dtk; VO tidak dipercepat/diperlambat.
+Frame 0 (PRB-36, satu fokus, TANPA kartu judul besar): Aru menyodorkan satu lembar uang besar "Rp1.000.000" ke tangan teman (tokoh teman generik); Si Bocor menggerogoti pojok uang ("kriuk!") sehingga lembarnya mengecil. Satu counter besar di atas uang: Rp1.000.000 turun dan BERHENTI di "Rp9??.???" pada dtk 2,0 (nilai asli Rp968.700 baru dibuka di adegan 8). Judul layar hanya pill kecil: "Utang teman, diam-diam SUSUT" (SUSUT kuning). Label seri/logo baru setelah dtk 3. Visual ganti di dtk ~1,5.
+Adegan 3: pill "Kamu pasti kenal dia 👀" + balon kata "Bulan depan ya, pasti!" · catatan kecil "*angka contoh ilustrasi" di bawah Rp1.000.000.
+Adegan 4 (dtk 10–15): teks kecil "Follow @kabar.arunika" · kalender bulan dicoret satu-satu, HP teman menampilkan foto liburan (lucu, bukan sindiran kasar).
+Adegan 6: kartu angka 3,23% + sumber kecil "Inflasi tahunan Okt 2026 · BPS, rilis 2 Nov 2026".
+Adegan 8 (dtk ±26–28, PUNCAK, Rp968.700): angka besar Rp968.700 + catatan kecil "daya beli Rp1 jt setelah setahun, inflasi 3,23% (dibulatkan)". ★ AJAKAN KIRIM (teks layar): "Kirim ke teman yang masih punya utang ke kamu 📤"
+Adegan 9: Si Bocor kabur membawa koin "−Rp31.300" ("cring!").
+Adegan 10–11: kartu 3,75% + sumber kecil "Bunga penjaminan LPS bank umum, 1 Okt 2026–Jan 2027 · bunga tiap bank bisa lebih rendah" · angka +Rp37.500.
+Adegan 13–16: layar terbelah tim NUNGGU vs tim LANGSUNG TAGIH.
+Adegan 17–18: chat pribadi berisi tanggal kembali (mis. "Balikin tgl 25 ya 🙏"), grup chat dicoret.
+Adegan 19 (terakhir): pill "Tim TAGIH atau tim NUNGGU? Komen!" · logo kecil ≤1,5 dtk. Tidak ada adegan/teks soal komentar part sebelumnya.

@@ -1,0 +1,48 @@
+[0,0–2,7] LDR irit? Dompetmu jebol tiap ketemu.
+[2,7–5,5] Coba tebak, mana lebih mahal sebulan?
+[5,5–10,9] Kamu pasti kenal teman yang tiap Jumat malam lari ke Stasiun Senen.
+[10,9–13,6] Satu kota dulu: kencan tiap Sabtu.
+[13,6–15,5] Nonton berdua, seratus ribu.
+[15,5–17,3] Makan berdua, seratus ribu.
+[17,3–19,1] Bensin tiga puluh ribu.
+[19,1–22,3] Empat Sabtu: sembilan ratus dua puluh ribu.
+[22,3–25,5] Sekarang LDR Jakarta–Jogja, ketemu sebulan sekali.
+[25,5–29,1] Kereta ekonomi premium pulang pergi, enam ratus ribu.
+[29,1–31,8] Penginapan dua malam, tiga ratus ribu.
+[31,8–35,0] Dua kencan di sana, empat ratus ribu.
+[35,0–38,6] Total satu koma tiga juta. LDR kalah. Selesai?
+[38,6–40,5] Tunggu, tim LDR menjawab.
+[40,5–45,0] Pesan jauh hari, kereta ekonomi mulai tujuh puluh empat ribu.
+[45,0–50,0] Totalnya jadi delapan ratus empat puluh delapan ribu. Lebih murah. Tapi…
+[50,0–54,1] Tim satu kota balas: nonton cukup dua minggu sekali.
+[54,1–56,8] Tinggal tujuh ratus dua puluh ribu.
+[56,8–60,5] Jadi penentunya bukan jarak, tapi seberapa sering ketemu.
+[60,5–65,0] Biar adil: yang berangkat bayar tiket, yang ditunggu bayar kencan.
+[65,0–68,2] Kamu tim LDR, atau tim satu kota?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Tempo: 150 kata, ±2,2 kata/dtk → ±68,2 dtk (target 65–72). VO tidak dipercepat/diperlambat. Gaya Flat 2D latar terang (#F2F4F7 / krem #FFF6E8).
+ATURAN SUMBER (pelajaran QA #12): SETIAP angka utama di layar, TERMASUK hasil hitungan (total, selisih, sisa), WAJIB diberi teks sumber kecil di bawahnya (y≈1640, ukuran kecil). Angka harga → nama sumber + tanggal. Angka hasil hitungan → "hitungan dari tarif KAI/XXI/HokBen/OYO/Pertamina · *contoh hitungan". Tidak boleh ada angka besar tanpa label sumber.
+Judul layar (frame 0, pill kecil, bukan kartu judul besar): "LDR vs sekota, MAHAL mana?" (MAHAL kuning).
+Frame 0 (PRB-34/36, satu fokus): satu tiket kereta raksasa memenuhi layar; Aru memeluknya, Si Bocor menggigit ujung tiket, koin jatuh ("cring!"). Satu counter besar di tiket: Rp0 naik cepat, BERHENTI di "Rp1.300.000" pada dtk 2,0 · sumber kecil "*contoh hitungan LDR sebulan · tarif KAI, OYO, XXI, HokBen". Visual ganti di dtk ~1,5 (tiket terbelah: kiri dua orang di satu motor, kanan dua HP video call). Label seri/logo baru setelah dtk 3.
+Adegan 2 (dtk 2,7): dua dompet bersisian, label "SATU KOTA" dan "LDR", tanda "?" di atasnya.
+Adegan 3 (dtk 5,5): pill "Kamu pasti kenal 👀" · teman berlari bawa ransel di peron Stasiun Pasar Senen, jam dinding "Jumat 19.30" (hangat, bukan ejekan).
+Adegan 4 (dtk 10,9–13,6): teks kecil "Follow @kabar.arunika". Kalender bulan dengan 4 Sabtu menyala.
+Adegan 5: angka "Rp50.000 × 2 = Rp100.000" (tiket nonton) · sumber kecil "tiket XXI Rp45–70 rb · detikcom, 11 Apr 2026".
+Adegan 6: angka "Rp100.000" (paket makan berdua) · sumber kecil "paket berdua HokBen Rp100 rb · Kontan, 27 Jul 2026".
+Adegan 7: angka "3 L × Rp10.000 = Rp30.000" · sumber kecil "Pertalite Rp10.000/L · iNews, 11 Nov 2026 · 3 liter = asumsi".
+Adegan 8: angka besar "Rp230.000 × 4 = Rp920.000/bulan" · sumber kecil "*contoh hitungan dari tarif XXI, HokBen, Pertamina".
+Adegan 9: peta kecil Jakarta–Jogja, garis rel bergerak; kalender dengan 1 tanggal dilingkari.
+Adegan 10: angka "Rp300.000 × 2 = Rp600.000" · sumber kecil "KA Gajahwong ekonomi premium Rp300–370 rb · Dealls, 9 Feb 2026".
+Adegan 11: angka "Rp150.000 × 2 malam = Rp300.000" · sumber kecil "OYO Jogja kamar AC Rp100–160 rb/malam · oyorooms.com, dicek 16 Nov 2026".
+Adegan 12: angka "2 × Rp200.000 = Rp400.000" (nonton + makan, tanpa bensin) · sumber kecil "*contoh hitungan dari tarif XXI & HokBen".
+Adegan 13 (dtk 35,0–38,6, PUNCAK): timbangan dua dompet, sisi LDR turun, Si Bocor duduk di dompet LDR sambil menjatuhkan koin: "Rp1.300.000 vs Rp920.000" · baris kecil "setahun: Rp15,6 jt vs Rp11 jt" · sumber kecil "*contoh hitungan dari tarif KAI, OYO, XXI, HokBen, Pertamina". ★ AJAKAN KIRIM (teks layar, muncul tepat saat angka total): "Kirim ke pasanganmu 📤"
+Adegan 14 (dtk 38,6): layar terbelah tim LDR vs tim SATU KOTA (warna netral, tanpa ejekan).
+Adegan 15: angka "Rp74.000 × 2 = Rp148.000" · sumber kecil "kereta ekonomi Jakarta–Yogyakarta mulai Rp74 rb · Metro TV (tiket.com), 30 Mei 2026".
+Adegan 16: angka besar "Rp848.000 < Rp920.000" (timbangan berbalik) · sumber kecil "*contoh hitungan: Rp148 rb + Rp300 rb + Rp400 rb".
+Adegan 17: kalender satu kota, 2 dari 4 ikon bioskop dicoret.
+Adegan 18: angka besar "Rp720.000 < Rp848.000" (timbangan berbalik lagi) · sumber kecil "*contoh hitungan: Rp920 rb − 2 × Rp100 rb".
+Adegan 19: dua pos menyala kuning: "SERING KETEMU" + "CARA PESAN"; ikon jarak meredup.
+Adegan 20: Aru memegang dua kantong: kiri "yang berangkat → tiket", kanan "yang ditunggu → kencan". Pill "Patungan adil".
+Adegan 21 (terakhir): pill "Tim LDR atau tim SATU KOTA? Komen!" · logo kecil ≤1,5 dtk · teks kecil "*contoh hitungan ilustrasi, bukan saran keuangan". Tidak ada adegan/teks soal komentar reel sebelumnya.
+Catatan hitungan: 1 pasangan; satu kota = 4 kencan Sabtu (nonton 2 tiket + paket makan berdua + 3 L Pertalite); LDR = 1 kunjungan/bulan Jakarta–Jogja, kereta PP 1 orang, 2 malam penginapan, 2 kencan (nonton + makan). Transport lokal di Jogja, ongkos ke stasiun, dan kuota video call tidak dihitung. Harga tiap tempat bisa beda, dibulatkan.

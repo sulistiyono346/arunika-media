@@ -1,0 +1,31 @@
+[0,0–4,5] Kuncimu ditolak hampir semua pintu, kecuali satu. Yuk, kita bongkar.
+3D: frame 0 silinder kunci utuh besar di tengah, melayang di atas grid lantai, latar gelap gradien abu-biru + lingkaran cahaya oranye di belakang; tangan Aru (lengan biru tua #14215B, gantungan syal toska-kuning) menyodorkan anak kunci ke lubang. Dtk ~1,5 di "bongkar": silinder MELEDAK jadi komponen (exploded view vertikal), kamera dolly-in pelan + orbit 15°. Dtk ~2 counter "0→5 PIN" muncul saat pin beterbangan. Teks layar frame 0 = Judul layar saja.
+
+[4,5–10,0] Coba tebak dulu: rahasianya bukan di gerigi yang selama ini kamu lihat.
+3D: anak kunci melayang sendiri, berputar pelan; gerigi disapu cahaya putih lalu diberi tanda "?" kuning. Kamera turun sedikit lalu pan ke komponen di belakang kunci (bayangan pin samar).
+
+[10,0–15,0] Di dalamnya, ada lima atau enam tumpuk pin berpegas, panjangnya beda-beda.
+3D: exploded view lengkap, berputar pelan. Garis penunjuk + label 1 kata muncul berurutan: BADAN, SILINDER, PEGAS, PIN ATAS, PIN BAWAH. Lima pin bawah berjajar dengan panjang beda-beda (tinggi naik-turun jelas). Sumber kecil: "Wikipedia · Pin tumbler lock". Teks kecil ajakan follow (dtk 10–15).
+
+[15,0–20,9] Nah, anak kunci masuk. Tiap lekuk mendorong pin sampai rata di garis geser.
+3D: komponen merapat lagi, potongan melintang (cutaway, separuh badan transparan). Kunci meluncur masuk; tiap lekuk mengangkat satu pin bawah, pegas memendek. Garis horizontal kuning #FFB800 menyala + label GARIS GESER; kamera close-up samping, slow-mo saat 5 sambungan rata.
+
+[20,9–26,8] Kunci benar? Silinder berputar. Kunci salah? Cukup satu pin nggak pas, nyangkut. Macet.
+3D: PUNCAK. Silinder berputar 90° + bunyi "klik" + kilat kuning. TEKS LAYAR AJAKAN KIRIM muncul di sini dan bertahan sampai dtk 32: "📤 Kirim ke teman yang gantungan kuncinya isi 10". Lalu kunci kedua (tanda X merah) masuk: satu pin berhenti melewati garis, disorot merah + label NYANGKUT, silinder bergetar tapi tidak berputar.
+
+[26,8–32,3] Makanya, dari sepuluh kunci di gantunganmu, cuma satu yang muter. Siapa penemunya?
+3D: gantungan berisi 10 anak kunci (satu bergantung syal toska-kuning) melayang berputar; kunci dicoba bergiliran cepat, sembilan ditolak (X merah), satu menyala hijau-kuning. Di "penemunya?" kamera zoom-out cepat, layar meredup.
+
+[32,3–38,2] Idenya dari kunci kayu Mesir kuno, lalu dikecilkan Linus Yale Junior. Masih cukup?
+3D: kunci-gerendel kayu besar bergaya Mesir (balok kayu + pasak) melayang, label KAYU + sumber kecil "±2000 SM · Explain that Stuff". Morph/menyusut jadi silinder logam kecil; kartu siluet potret + label "Linus Yale Jr. · paten 1865". Di "Masih cukup?" silinder logam berhenti di tengah, lingkaran oranye berdenyut.
+
+[38,2–44,1] Kubu sebelah: ganti kunci pintar! Praktis, tapi banyak yang masih simpan silinder ini.
+3D: kunci pintar (badan kotak gelap + keypad menyala) masuk dari kanan, ikon HP terhubung. Lalu kunci pintar ikut "dibongkar" (exploded): di dalamnya terlihat silinder pin yang sama, label CADANGAN. Sumber kecil "Which?, 15 Apr 2026".
+
+[44,1–49,5] Jadi kuno atau canggih, tetap titip satu kunci cadangan ke orang terpercaya.
+3D: silinder biasa (kiri) dan kunci pintar (kanan) berdampingan di atas grid, setara tinggi. Satu anak kunci cadangan melayang dari tengah ke ikon tangan/siluet orang, label CADANGAN.
+
+[49,5–54,1] Sekarang jujur: kamu tim kunci biasa, atau tim kunci pintar?
+3D: layar terbelah dua: kiri silinder biasa berlabel TIM BIASA, kanan kunci pintar berlabel TIM PINTAR, keduanya berputar pelan. Penutup ≤1,5 dtk: logo kecil + "Tulis di komentar".
+
+Semua adegan: subtitle kata demi kata 1 baris di bawah tengah, 1 kata kunci kotak kuning; label garis penunjuk putih tipis + pill 1 kata; tanpa label seri/logo di dtk 0–3; area aman 130 px kiri-kanan. Tidak ada adegan cara membobol kunci.

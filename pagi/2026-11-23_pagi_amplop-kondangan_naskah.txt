@@ -1,0 +1,48 @@
+[0,0–2,7] Kamu datang berdua, amplopnya cuma satu.
+[2,7–5,0] Coba tebak, siapa yang tekor?
+[5,0–9,5] Kamu pasti kenal om yang datang berlima, amplopnya juga satu.
+[9,5–11,4] Hitung dari dapur pengantin.
+[11,4–15,5] Katering gedung serbaguna, sekitar lima puluh ribu per orang.
+[15,5–17,7] Kamu berdua makan, seratus ribu.
+[17,7–22,3] Padahal amplop rekan kerja biasanya seratus sampai dua ratus ribu.
+[22,3–24,1] Isi seratus ribu? Pas.
+[24,1–27,3] Isi lima puluh ribu? Pengantin yang tekor.
+[27,3–29,5] Tapi kamu juga keluar ongkos.
+[29,5–33,2] Bensin pulang pergi dua liter, dua puluh ribu.
+[33,2–37,7] Minggu ini tiga undangan? Tiga ratus enam puluh ribu melayang.
+[37,7–41,8] Om yang berlima? Makannya dua ratus lima puluh ribu.
+[41,8–43,6] Tunggu, tim silaturahmi menjawab.
+[43,6–46,4] Kondangan itu doa, bukan jual beli.
+[46,4–50,0] Lagi pula, amplopmu nanti kembali waktu kamu nikah.
+[50,0–54,5] Dan pengantin biasanya sudah menghitung satu undangan untuk dua orang.
+[54,5–59,1] Jadi yang bikin tekor bukan berdua, tapi datang melebihi undangan.
+[59,1–62,3] Patokan gampangnya: porsi kali orang yang datang.
+[62,3–65,0] Nggak bisa datang? Transfer tetap dihitung.
+[65,0–68,6] Kamu tim satu amplop berdua, atau amplop masing-masing?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Tempo: 151 kata, ±2,2 kata/dtk → ±68,6 dtk (target 65–72). VO tidak dipercepat/diperlambat. Gaya Flat 2D latar terang (#F2F4F7 / krem #FFF6E8).
+ATURAN SUMBER: SETIAP angka di layar, termasuk hasil hitungan, diberi teks sumber kecil di bawahnya (y≈1640). Harga → nama sumber + tanggal. Hasil hitungan → "*contoh hitungan dari ...".
+Judul layar (frame 0, pill kecil, bukan kartu judul besar): "Datang berdua, amplop SATU?" (SATU? kuning).
+Frame 0 (PRB-29/34/36/46, satu fokus): Aru dan pasangannya melangkah ke meja tamu, Aru memegang satu amplop tipis berukuran besar; Si Bocor mengintip dari dalam amplop, satu koin jatuh ("cring!"). Di sebelah amplop, piring prasmanan dengan counter Rp0 naik cepat, BERHENTI di "2 porsi = Rp100.000" pada dtk 2,0 · sumber kecil "*contoh hitungan · katering Rp35–60 rb/orang, Kupinang.id 27 Mei 2026". Visual ganti di dtk ~1,5 (kotak amplop di meja tamu, antrean tamu). Label seri/logo baru setelah dtk 3.
+Adegan 2 (dtk 2,7): layar terbelah "KAMU" (dompet) vs "PENGANTIN" (panci katering), tanda "?" di tengah.
+Adegan 3 (dtk 5,0): pill "Kamu pasti kenal 👀" · om ramah datang berlima (istri + tiga anak), satu amplop di tangan; nada hangat, bukan ejekan.
+Adegan 4 (dtk 9,5–11,4) dan 5 (sampai dtk 15,5): teks kecil "Follow, besok: rice cooker, mode warm-nya makan listrik berapa?". Adegan 4: dapur katering, deretan piring.
+Adegan 5: angka "Rp35–60 rb/orang → ±Rp50.000" · sumber kecil "katering gedung serbaguna Rp35–60 rb/orang · Kupinang.id, 27 Mei 2026 · Rp50 rb = tengah kisaran".
+Adegan 6: angka "2 × Rp50.000 = Rp100.000" · sumber kecil "*contoh hitungan dari tarif Kupinang.id".
+Adegan 7: angka "Rp100–200 rb" (amplop rekan kerja) · sumber kecil "Kontan MomsMoney, 12 Agu 2026".
+Adegan 8: timbangan seimbang "Rp100.000 = Rp100.000" · sumber kecil "*contoh hitungan".
+Adegan 9: timbangan miring, Si Bocor menggigit sisi pengantin: "Rp50.000 vs Rp100.000 → −Rp50.000" · sumber kecil "amplop Rp50 rb fresh graduate · Mojok, 24 Apr 2026".
+Adegan 10: layar balik ke sisi KAMU, Aru menyalakan motor.
+Adegan 11: angka "2 L × Rp10.000 = Rp20.000" · sumber kecil "Pertalite Rp10.000/L · iNews, 19 Nov 2026 · 2 liter PP = asumsi".
+Adegan 12 (dtk 33,2–37,7, PUNCAK): tiga undangan jatuh ke tangan Aru, counter besar "3 × (Rp100.000 + Rp20.000) = Rp360.000" · sumber kecil "*contoh hitungan · amplop Rp100 rb + bensin Rp20 rb". ★ AJAKAN KIRIM (teks layar, muncul tepat saat angka total): "Kirim ke teman yang minggu ini dapat 3 undangan 📤"
+Adegan 13: om berlima di prasmanan, lima piring: "5 × Rp50.000 = Rp250.000" · sumber kecil "*contoh hitungan dari tarif Kupinang.id".
+Adegan 14 (dtk 41,8): layar terbelah tim HITUNG vs tim SILATURAHMI (warna netral).
+Adegan 15: pill "doa, bukan jual beli" · pengantin menyalami tamu.
+Adegan 16: kalender: amplop berangkat sekarang, kembali "waktu kamu nikah" (panah melingkar).
+Adegan 17: kartu undangan bertuliskan "1 undangan = 2 orang" · sumber kecil "cara hitung katering: undangan × 2 · Antara, 29 Jul 2024".
+Adegan 18: dua pos menyala kuning: "DATANG BERDUA ✓" redup → "MELEBIHI UNDANGAN" menyala.
+Adegan 19 (±3 dtk, KARTU LAYAK SIMPAN, PRB-62): "PATOKAN AMPLOP = porsi × orang yang datang" · baris: "Sendiri: 1 porsi · Berdua: 2 porsi · Bawa anak: + porsi per anak" · "Gedung serbaguna Rp35–60 rb/orang · Hotel premium Rp250–400 rb/orang" · sumber kecil "Kupinang.id, 27 Mei 2026" · teks kecil "simpan buat undangan berikutnya 📌".
+Adegan 20: ikon HP transfer ke rekening pengantin, centang.
+Adegan 21 (terakhir): pill "Tim SATU amplop atau MASING-MASING? Komen satu kata!" · logo kecil ≤1,5 dtk · teks kecil "*contoh hitungan ilustrasi, bukan saran keuangan". Tidak ada adegan/teks soal komentar reel sebelumnya.
+Catatan hitungan: katering Rp50 rb/orang (tengah kisaran gedung serbaguna Kupinang.id); amplop Rp100 rb untuk berdua; bensin 2 liter PP. Baju, parkir, dan kado barang tidak dihitung. Harga tiap tempat bisa beda, dibulatkan.

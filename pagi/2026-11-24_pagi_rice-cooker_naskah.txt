@@ -1,0 +1,41 @@
+ARN-60 · Rice cooker, kok TAHU? · tayang Sel 24 Nov 2026 10.00 WIB
+Gaya: 3D bongkar (PRB-58, three.js tools/r3d_bongkar/) · 9:16 · VO Maliq Nganjuk
+Tempo: 130 kata, ±2,2 kata/dtk → ±59,1 dtk (+ logo kecil di dalam 1,5 dtk terakhir) · target 50–62 dtk. VO tidak dipercepat/diperlambat.
+
+[1] 0,0–3,2   Rice cooker-mu tetap makan listrik setelah klik.
+[2] 3,2–7,3   Yuk bongkar. Coba tebak, gimana dia tahu nasinya matang?
+[3] 7,3–10,5  Katanya pakai timer. Padahal, nggak ada jam.
+[4] 10,5–14,1 Cuma pelat pemanas, dan magnet kecil di tengah.
+[5] 14,1–18,2 Selama masih ada air, panci tertahan sekitar seratus derajat.
+[6] 18,2–21,4 Air habis, suhu naik, magnetnya lepas: klik!
+[7] 21,4–25,0 Jadi yang tahu nasinya matang? Air yang habis.
+[8] 25,0–29,1 Kebanyakan air? Klik-nya telat. Tapi klik bukan berarti mati.
+[9] 29,1–32,7 Pemanas warm tujuh puluh tujuh watt tetap kerja.
+[10] 32,7–35,5 Tiap jam, sekitar seratus sebelas rupiah.
+[11] 35,5–39,5 Dua belas jam sehari? Sebulan bisa empat puluh ribu.
+[12] 39,5–44,1 Padahal sekali masak cuma sekitar dua ratus lima puluh rupiah.
+[13] 44,1–45,9 Warm-nya lima kali lipat.
+[14] 45,9–50,9 Tapi tim warm protes: nasi dingin cepat basi. Benar, asal secukupnya.
+[15] 50,9–55,9 Dimakan siang, biarkan warm. Baru dimakan malam? Cabut, hangatkan pas makan.
+[16] 55,9–59,1 Rice cooker-mu: tim cabut, atau tim warm?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Judul layar (frame 0, pill kecil, bukan kartu judul besar): "Rice cooker, kok TAHU?" (TAHU? kuning #FFB800, teks di atas kuning biru tua). VO tidak mengulang judul.
+ATURAN SUMBER (PRB-39): setiap angka di layar diberi teks sumber kecil di bawahnya (y≈1640). Hasil hitungan → "*contoh hitungan · …".
+Frame 0 (PRB-29/34/36/46/58, satu fokus): latar gelap, rice cooker besar mulai terbelah (exploded view bergerak), termostat magnet di tengah menyala toska, ikon petir kecil di kabel. Si Bocor (kecil) menggigit kabel dekat ikon petir, satu koin jatuh "cring!". Counter kecil di dekat petir mulai berdetak di dtk ~2: "Rp0 → Rp111/jam" · sumber kecil "*contoh hitungan · 77 W × Rp1.444,70/kWh". Visual ganti di dtk ~1,5 (kamera memutar ke bagian dalam). Tanpa label seri/logo/progress bar sampai dtk 3.
+[2] Kamera masuk ke dalam rice cooker; tanda "?" besar di atas panci.
+[3] Ikon jam/timer muncul lalu dicoret (X) · pill kecil "MITOS?". Teks kecil dtk 10–15: "Follow, besok: Bayangkan kamu di Anyer 1883: laut tiba-tiba surut. Pungut ikan atau lari?"
+[4] Exploded view: panci → pelat pemanas → termostat magnet. Label garis penunjuk: "PANCI", "PELAT PEMANAS", "MAGNET (termostat)".
+[5] Panci berisi air mendidih, termometer berhenti di "±100°C" · sumber kecil "titik didih air di permukaan laut".
+[6] Air menguap habis, termometer naik melewati 100°C, magnet lepas (pegas menarik), tuas jatuh: teks "KLIK!" kuning besar · sumber kecil "cara kerja termostat ferit · TDK Tech-Mag".
+[7] Callback: ikon jam tetap dicoret, ikon tetes air "HABIS" menyala kuning.
+[8] Dua panci bersisian: air pas vs air kebanyakan, jarum waktu masak lebih panjang di sisi kebanyakan. Lalu lampu WARM menyala oranye, pemanas kecil di bawah panci berpendar.
+[9] Label pemanas warm "77 W" · sumber kecil "label 350 W/77 W · Kepala Divisi Niaga PLN via detikFinance, 13 Jun 2017".
+[10] Meteran listrik berputar, counter "Rp111/jam" · sumber kecil "*contoh hitungan · 0,077 kWh × Rp1.444,70 (R-1 1.300 VA, Okt–Des 2026, Metro TV News 29 Okt 2026)".
+[11] (PUNCAK) Counter besar "12 jam × 30 hari = ±Rp40.000/bulan" · sumber kecil "*contoh hitungan · 77 W × 12 jam × 30 hari × Rp1.444,70; daya label, pemakaian nyata bisa lebih kecil". ★ AJAKAN KIRIM (teks layar, muncul tepat saat angka Rp40.000 tampil): "Kirim ke ibumu yang rice cooker-nya nyala 24 jam 📤"
+[12] Dua batang bersisian: "MASAK ±Rp250" (pendek) vs "WARM 12 JAM ±Rp1.335" (tinggi) · sumber kecil "*contoh hitungan · masak 350 W × 30 menit (asumsi)".
+[13] Batang WARM menjulang, teks "5×" kuning besar; Si Bocor duduk di atas tutup rice cooker yang hangat.
+[14] Layar terbelah tim CABUT vs tim WARM (warna netral); di sisi WARM, piring nasi dingin dengan pill "cepat basi?".
+[15] (±3–5 dtk, KARTU LAYAK SIMPAN, PRB-62) "3 KEBIASAAN RICE COOKER HEMAT" · 1. Takar air pas (air lebih = klik telat) · 2. Jangan buka tutup sebelum klik · 3. Dimakan siang: biarkan warm · Baru malam: cabut, hangatkan pas makan · baris kecil ">12 jam warm, warna nasi bisa berubah · Panasonic" · teks kecil "simpan buat di dapur 📌". Aru mencabut steker, "Hitung dulu!".
+[16] (terakhir) Pill "Tim CABUT atau tim WARM? Komen satu kata!" · logo kecil ≤1,5 dtk di akhir, tanpa kalimat baru · teks kecil "*contoh hitungan ilustrasi". Tidak ada adegan/teks soal komentar reel sebelumnya.
+Catatan hitungan: tarif R-1 1.300 VA Rp1.444,70/kWh (Okt–Des 2026). Warm 77 W (daya label; pemanas warm nyala-mati, jadi tagihan nyata bisa lebih kecil): per jam 0,077 kWh = Rp111; 12 jam/hari × 30 hari = 27,72 kWh = Rp40.047. Masak 350 W × 30 menit (asumsi) = 0,175 kWh = Rp253; warm 12 jam = 0,924 kWh = Rp1.335 (≈5,3×). Dibulatkan.

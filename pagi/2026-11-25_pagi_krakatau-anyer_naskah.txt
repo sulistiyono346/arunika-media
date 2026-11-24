@@ -1,0 +1,36 @@
+ARN-61 · Pungut ikan, atau LARI? · tayang Rab 25 Nov 2026 10.00 WIB
+Gaya: 3D sinematik gelap (PRB-48, three.js tools/r3d_kamu_pilih/) · format "Bayangkan kamu… kamu pilih apa?" tanpa part · 9:16 · VO Maliq Nganjuk
+Tempo: 133 kata, ±2,2 kata/dtk → ±60,5 dtk (+ logo kecil di dalam 1,5 dtk terakhir) · target 50–62 dtk. VO tidak dipercepat/diperlambat.
+
+[1] 0,0–3,2   Kamu di pantai, lautnya tiba-tiba mundur jauh.
+[2] 3,2–6,4   Kamu pilih apa? Ikan-ikan menggelepar di depanmu.
+[3] 6,4–12,3  Bayangkan ini Anyer, dua puluh tujuh Agustus seribu delapan ratus delapan puluh tiga.
+[4] 12,3–18,2 Di seberang selat, Krakatau meledak. Dentumannya terdengar sampai empat ribu delapan ratus kilometer.
+[5] 18,2–22,3 Tapi yang paling mematikan bukan ledakannya. Coba tebak, apa?
+[6] 22,3–26,4 Lautnya sendiri. Gelombang tsunaminya sampai sekitar empat puluh meter.
+[7] 26,4–30,5 Tsunami merenggut lebih dari tiga puluh empat ribu nyawa.
+[8] 30,5–36,4 Jadi, lari. Laut surut tiba-tiba itu salah satu tanda tsunami. Ikannya bukan rezeki.
+[9] 36,4–42,3 Pasti ada satu orang di rombonganmu yang bilang: santai, nanti juga ada sirene.
+[10] 42,3–47,8 Masalahnya, Desember dua ribu delapan belas, tsunami Selat Sunda datang tanpa gempa.
+[11] 47,8–51,9 Kata BMKG, waktu emasnya bisa kurang dari lima menit.
+[12] 51,9–57,8 Sirene tetap penting. Tapi laut mundur? Itu alarm pertamamu: lari ke tempat tinggi.
+[13] 57,8–60,5 Kamu: lari duluan, atau tunggu sirene?
+
+--- TEKS LAYAR (untuk Produksi, tidak dibacakan) ---
+Judul layar (frame 0, pill kecil, bukan kartu judul besar): "Pungut ikan, atau LARI?" (LARI? kuning #FFB800, teks di atas kuning biru tua). VO tidak mengulang judul.
+ATURAN SUMBER (PRB-39): setiap angka di layar diberi teks sumber kecil (y≈1640, fungsi source() di scene.js). Semua adegan pantai/gelombang diberi label kecil "ilustrasi".
+KORBAN TIDAK DIGAMBARKAN: tidak ada tubuh/orang tenggelam; manusia hanya siluet jauh; dampak ditunjukkan lewat benda (mercusuar runtuh, pohon kelapa, rumah panggung kosong).
+[1] Frame 0 (PRB-29/34/36/46, satu fokus): sudut pandang kamu, pasir basah, ikan menggelepar tepat di depan kamera, garis laut jauh di belakang, langit gelap. Aru 3D (Syal Bendera) kecil di sisi kanan setengah membungkuk mau memungut ikan, syal berkibar. Dtk ~1,5 kamera naik sedikit memperlihatkan dasar laut terbuka. Dtk ~2: angka tahun kecil bergulir mundur "2026 → 1883" (counter, bukan HUD). Tanpa label seri/logo/progress bar sampai dtk 3.
+[2] Dua kartu pilihan (label() di scene.js): "1 PUNGUT IKAN" (toska) dan "2 LARI" (kuning), berkedip bergantian.
+[3] Kartu pilihan memudar; teks "Anyer · 27 Agustus 1883" + "ilustrasi". Desa pesisir & mercusuar Anyer di kejauhan. Teks kecil dtk 10–15: "Follow, besok: trik bikin minuman kaleng dingin tanpa nunggu kulkas".
+[4] Kilatan jingga di cakrawala seberang selat, gelombang kejut melintas, kamera bergetar. Counter "0 → 4.800 km" · sumber kecil "Metro TV News, 26 Agu 2025".
+[5] Kamera menoleh dari kepulan letusan ke arah laut; tanda "?" besar.
+[6] Dinding air gelap naik di cakrawala (siluet, tanpa orang). Counter tinggi "± 40 m" di samping penggaris vertikal · sumber kecil "NOAA NCEI, 26 Agu 2017 (±41 m di Banten)".
+[7] Mercusuar dan pohon kelapa tersapu (benda, bukan orang). Angka "> 34.000 jiwa" kecil, putih, tanpa animasi meriah · sumber kecil "NOAA NCEI, 26 Agu 2017". Momen hening (musik turun).
+[8] (PUNCAK) Kembali ke pantai frame 0: kartu "2 LARI" menyala kuning besar, Aru berbalik dan berlari ke bukit. Ikon ikan di pasir + pill "tanda tsunami" · sumber kecil "Petunjuk Keselamatan Gempabumi & Tsunami, BMKG". ★ AJAKAN KIRIM (teks layar, muncul tepat saat "Jadi, lari"): "Kirim ke keluarga yang liburan akhir tahun ke pantai 📤"
+[9] Rombongan siluet di pantai; satu siluet duduk santai dengan HP, gelembung teks "santai, nanti ada sirene" (tokoh yang bisa "diisi nama" penonton).
+[10] Malam di pesisir Selat Sunda, menara sirene diam, seismograf garis datar · teks "22 Des 2018 · tanpa gempa" · sumber kecil "siaran pers BMKG, 22 Des 2018" · teks kecil kedua "437 meninggal · BNPB via Tempo, 31 Des 2018" (muncul setelah teks pertama, bukan bersamaan).
+[11] Stopwatch "< 5 menit" berdetak · sumber kecil "BMKG, 26 Mar 2019".
+[12] (±3–5 dtk, KARTU LAYAK SIMPAN, PRB-62) "TANDA TSUNAMI (BMKG)" · 1. Gempa sangat kuat atau lama (±1 menit) · 2. Laut surut tiba-tiba, ikan/karang terlihat · 3. Dentuman keras dari laut · → Langsung ke tempat tinggi. Jangan tunggu sirene. · sumber kecil "Petunjuk Keselamatan Gempabumi & Tsunami BMKG; BMKG 26 Mar 2019" · teks kecil "simpan sebelum liburan 📌". Aru di bukit menunjuk ke laut, "Hitung dulu!" tidak dipakai (topik keselamatan).
+[13] (terakhir) Pill "Tim LARI atau tim TUNGGU? Komen satu kata!" · logo kecil ≤1,5 dtk di akhir, tanpa kalimat baru. Tidak ada adegan/teks soal komentar reel sebelumnya.
+Catatan fakta: naskah TIDAK mengklaim laut di Anyer surut sebelum gelombang 1883 (tidak ditemukan sumber yang merinci); adegan 1–2 dibingkai "bayangkan" + label ilustrasi. Puncak letusan 27 Agu 1883 pukul 10.02 waktu Batavia (detikNews, 12 Jan 2019).

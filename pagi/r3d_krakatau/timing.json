@@ -1,0 +1,359 @@
+{
+ "lead": 0.3,
+ "chunks": [
+  {
+   "text": "Kamu di pantai,",
+   "kw": "pantai",
+   "s": 0.0,
+   "e": 1.26,
+   "spoken": "Kamu di pantai,",
+   "show_end": 1.62
+  },
+  {
+   "text": "lautnya tiba-tiba",
+   "kw": "tiba-tiba",
+   "s": 1.62,
+   "e": 2.63,
+   "spoken": "lautnya tiba-tiba",
+   "show_end": 2.63
+  },
+  {
+   "text": "mundur jauh.",
+   "kw": "mundur",
+   "s": 2.63,
+   "e": 3.36,
+   "spoken": "mundur jauh.",
+   "show_end": 3.86
+  },
+  {
+   "text": "Kamu pilih apa?",
+   "kw": "pilih",
+   "s": 3.87,
+   "e": 4.53,
+   "spoken": "Kamu pilih apa?",
+   "show_end": 5.03
+  },
+  {
+   "text": "Ikan-ikan menggelepar",
+   "kw": "Ikan-ikan",
+   "s": 5.07,
+   "e": 6.209,
+   "spoken": "Ikan-ikan menggelepar",
+   "show_end": 6.209
+  },
+  {
+   "text": "di depanmu.",
+   "kw": "",
+   "s": 6.209,
+   "e": 6.83,
+   "spoken": "di depanmu.",
+   "show_end": 7.33
+  },
+  {
+   "text": "Bayangkan ini Anyer,",
+   "kw": "Anyer",
+   "s": 7.38,
+   "e": 8.38,
+   "spoken": "Bayangkan ini Anyer,",
+   "show_end": 8.76
+  },
+  {
+   "text": "27 Agustus 1883.",
+   "kw": "1883",
+   "s": 8.76,
+   "e": 12.05,
+   "spoken": "dua puluh tujuh Agustus seribu delapan ratus delapan puluh tiga.",
+   "show_end": 12.55
+  },
+  {
+   "text": "Di seberang selat,",
+   "kw": "selat",
+   "s": 12.67,
+   "e": 13.36,
+   "spoken": "Di seberang selat,",
+   "show_end": 13.72
+  },
+  {
+   "text": "Krakatau meledak.",
+   "kw": "meledak",
+   "s": 13.72,
+   "e": 14.82,
+   "spoken": "Krakatau meledak.",
+   "show_end": 15.32
+  },
+  {
+   "text": "Dentumannya terdengar",
+   "kw": "terdengar",
+   "s": 15.39,
+   "e": 16.554,
+   "spoken": "Dentumannya terdengar",
+   "show_end": 16.554
+  },
+  {
+   "text": "sampai 4.800 kilometer.",
+   "kw": "4.800",
+   "s": 16.554,
+   "e": 18.83,
+   "spoken": "sampai empat ribu delapan ratus kilometer.",
+   "show_end": 19.33
+  },
+  {
+   "text": "Tapi yang paling mematikan",
+   "kw": "mematikan",
+   "s": 19.47,
+   "e": 20.634,
+   "spoken": "Tapi yang paling mematikan",
+   "show_end": 20.634
+  },
+  {
+   "text": "bukan ledakannya.",
+   "kw": "bukan",
+   "s": 20.634,
+   "e": 21.41,
+   "spoken": "bukan ledakannya.",
+   "show_end": 21.91
+  },
+  {
+   "text": "Coba tebak, apa?",
+   "kw": "apa",
+   "s": 21.91,
+   "e": 22.9,
+   "spoken": "Coba tebak, apa?",
+   "show_end": 23.4
+  },
+  {
+   "text": "Lautnya sendiri.",
+   "kw": "Lautnya",
+   "s": 23.48,
+   "e": 24.7,
+   "spoken": "Lautnya sendiri.",
+   "show_end": 25.2
+  },
+  {
+   "text": "Gelombang tsunaminya",
+   "kw": "tsunaminya",
+   "s": 25.23,
+   "e": 26.265,
+   "spoken": "Gelombang tsunaminya",
+   "show_end": 26.265
+  },
+  {
+   "text": "sampai sekitar 40 meter.",
+   "kw": "40 meter",
+   "s": 26.265,
+   "e": 27.94,
+   "spoken": "sampai sekitar empat puluh meter.",
+   "show_end": 28.44
+  },
+  {
+   "text": "Tsunami merenggut",
+   "kw": "merenggut",
+   "s": 28.47,
+   "e": 29.407,
+   "spoken": "Tsunami merenggut",
+   "show_end": 29.407
+  },
+  {
+   "text": "lebih dari 34.000 nyawa.",
+   "kw": "34.000",
+   "s": 29.407,
+   "e": 31.49,
+   "spoken": "lebih dari tiga puluh empat ribu nyawa.",
+   "show_end": 31.99
+  },
+  {
+   "text": "Jadi, lari.",
+   "kw": "lari",
+   "s": 31.99,
+   "e": 33.07,
+   "spoken": "Jadi, lari.",
+   "show_end": 33.55
+  },
+  {
+   "text": "Laut surut tiba-tiba",
+   "kw": "surut",
+   "s": 33.55,
+   "e": 34.691,
+   "spoken": "Laut surut tiba-tiba",
+   "show_end": 34.691
+  },
+  {
+   "text": "itu salah satu",
+   "kw": "",
+   "s": 34.691,
+   "e": 35.505,
+   "spoken": "itu salah satu",
+   "show_end": 35.505
+  },
+  {
+   "text": "tanda tsunami.",
+   "kw": "tanda tsunami",
+   "s": 35.505,
+   "e": 36.32,
+   "spoken": "tanda tsunami.",
+   "show_end": 36.77
+  },
+  {
+   "text": "Ikannya bukan rezeki.",
+   "kw": "bukan rezeki",
+   "s": 36.77,
+   "e": 38.27,
+   "spoken": "Ikannya bukan rezeki.",
+   "show_end": 38.7
+  },
+  {
+   "text": "Pasti ada satu orang",
+   "kw": "satu orang",
+   "s": 38.7,
+   "e": 39.686,
+   "spoken": "Pasti ada satu orang",
+   "show_end": 39.686
+  },
+  {
+   "text": "di rombonganmu yang bilang:",
+   "kw": "rombonganmu",
+   "s": 39.686,
+   "e": 41.0,
+   "spoken": "di rombonganmu yang bilang:",
+   "show_end": 41.35
+  },
+  {
+   "text": "“santai, nanti",
+   "kw": "santai",
+   "s": 41.35,
+   "e": 42.389,
+   "spoken": "santai, nanti",
+   "show_end": 42.389
+  },
+  {
+   "text": "juga ada sirene.”",
+   "kw": "sirene",
+   "s": 42.389,
+   "e": 43.65,
+   "spoken": "juga ada sirene.",
+   "show_end": 44.02
+  },
+  {
+   "text": "Masalahnya,",
+   "kw": "Masalahnya",
+   "s": 44.02,
+   "e": 44.8,
+   "spoken": "Masalahnya,",
+   "show_end": 44.97
+  },
+  {
+   "text": "Desember 2018,",
+   "kw": "2018",
+   "s": 44.97,
+   "e": 46.59,
+   "spoken": "Desember dua ribu delapan belas,",
+   "show_end": 46.72
+  },
+  {
+   "text": "tsunami Selat Sunda",
+   "kw": "Selat Sunda",
+   "s": 46.72,
+   "e": 47.82,
+   "spoken": "tsunami Selat Sunda",
+   "show_end": 47.82
+  },
+  {
+   "text": "datang tanpa gempa.",
+   "kw": "tanpa gempa",
+   "s": 47.82,
+   "e": 48.92,
+   "spoken": "datang tanpa gempa.",
+   "show_end": 49.42
+  },
+  {
+   "text": "Kata BMKG,",
+   "kw": "BMKG",
+   "s": 49.47,
+   "e": 50.45,
+   "spoken": "Kata BMKG,",
+   "show_end": 50.79
+  },
+  {
+   "text": "waktu emasnya",
+   "kw": "waktu emas",
+   "s": 50.79,
+   "e": 51.428,
+   "spoken": "waktu emasnya",
+   "show_end": 51.428
+  },
+  {
+   "text": "bisa kurang dari 5 menit.",
+   "kw": "5 menit",
+   "s": 51.428,
+   "e": 52.75,
+   "spoken": "bisa kurang dari lima menit.",
+   "show_end": 53.16
+  },
+  {
+   "text": "Sirene tetap penting.",
+   "kw": "penting",
+   "s": 53.16,
+   "e": 54.45,
+   "spoken": "Sirene tetap penting.",
+   "show_end": 54.87
+  },
+  {
+   "text": "Tapi laut mundur?",
+   "kw": "mundur",
+   "s": 54.87,
+   "e": 56.23,
+   "spoken": "Tapi laut mundur?",
+   "show_end": 56.62
+  },
+  {
+   "text": "Itu alarm pertamamu:",
+   "kw": "alarm",
+   "s": 56.62,
+   "e": 57.89,
+   "spoken": "Itu alarm pertamamu:",
+   "show_end": 58.22
+  },
+  {
+   "text": "lari ke tempat tinggi.",
+   "kw": "tempat tinggi",
+   "s": 58.22,
+   "e": 59.22,
+   "spoken": "lari ke tempat tinggi.",
+   "show_end": 59.66
+  },
+  {
+   "text": "Kamu: lari duluan,",
+   "kw": "lari duluan",
+   "s": 59.66,
+   "e": 61.03,
+   "spoken": "Kamu: lari duluan,",
+   "show_end": 61.39
+  },
+  {
+   "text": "atau tunggu sirene?",
+   "kw": "tunggu sirene",
+   "s": 61.39,
+   "e": 62.6,
+   "spoken": "atau tunggu sirene?",
+   "show_end": 63.1
+  }
+ ],
+ "scenes": [
+  0.0,
+  3.72,
+  7.23,
+  12.52,
+  19.32,
+  23.33,
+  28.32,
+  31.84,
+  38.55,
+  43.87,
+  49.32,
+  53.01,
+  59.51,
+  62.7
+ ],
+ "total": 63.9,
+ "vo_end": 62.599999999999994
+}

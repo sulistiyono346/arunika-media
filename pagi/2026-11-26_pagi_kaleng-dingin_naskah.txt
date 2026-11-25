@@ -1,0 +1,13 @@
+ARN-62 · Tamu datang, minuman HANGAT? · tayang Kam 26 Nov 2026 10.00 WIB
+Format: REEL BISU 12 dtk tanpa VO (PRB-19) · Flat 2D latar terang · 9:16 · musik/sfx saja (bel "ting-tong", "tik-tik" timer, "cring" es)
+Split A vs B: label maks 2 kata per sisi (KULKAS / ES + GARAM). Sumber kecil di bawah tiap angka (PRB-39, y≈1640). Tanpa label seri/logo/progress bar di dtk 0–3.
+
+[1] 0,0–1,0  FRAME 0 (hook, disetujui founder): Aru di ruang tamu memegang kaleng hangat (garis hawa panas bergoyang), ikon bel pintu bergoyang "TING-TONG!", Aru menoleh kaget. Teks atas: "Tamu datang, minuman HANGAT?" (HANGAT? kuning, teks di atas kuning biru tua). Satu fokus, sudah bergerak (PRB-29).
+[2] 1,0–2,0  Potong ke split layar. Kiri: kaleng masuk kulkas, label "KULKAS". Kanan: kaleng dicelup ke baskom es + garam + air, label "ES + GARAM". Di dtk ~1,5 timer "0:00" dan termometer "21°C" muncul di kedua sisi, mulai bergerak.
+[3] 2,0–4,0  Balapan: timer berlari di dua sisi. Termometer kanan turun cepat, kiri hampir diam. Pill tengah kecil: "Tebak, kalengmu dingin duluan di mana?" (loop terbuka, -mu).
+[4] 4,0–6,0  Kanan: tangan Aru memutar kaleng pelan (ikon ↻), label kecil "air asin −16°C". Kiri: label kecil "udara ±4°C". Sumber kecil: "suhu bak & kulkas · SINTEF, 19 Des 2025". Termometer kanan mendekati 5°C.
+[5] 6,0–8,0  PUNCAK: termometer kanan tepat 5°C, angka besar kuning "2,5 MENIT" + "cring!". Kiri: jam kulkas berputar cepat (time-lapse), angka "10 JAM" muncul. Sumber kecil: "kaleng 0,33 L, 21°C → 5°C · SINTEF, 19 Des 2025". ★ AJAKAN KIRIM (teks layar, muncul tepat bersama "2,5 MENIT"): "Kirim ke teman yang kebagian bawa minuman 📤"
+[6] 8,0–10,5 KARTU LAYAK SIMPAN (PRB-62): "RESEP 2,5 MENIT" · 1 L air + 250 g garam · es batu banyak (±3× garam) · rendam penuh, putar pelan sesekali. Sumber kecil: "SINTEF 19 Des 2025 · es 3 : garam 1 → −18°C, Engineering ToolBox". Teks kecil: "simpan buat pas kumpul 📌". Aru menyodorkan kaleng dingin berembun ke tamu.
+[7] 10,5–12,0 TERAKHIR: pill "Tim KULKAS atau tim ES + GARAM?" (KULKAS & ES + GARAM kuning) · teks kecil "Follow, besok: kenapa hari JUMAT namanya Jumat?" · logo kecil ≤1,5 dtk, tanpa adegan baru.
+
+Catatan angka (semua dari SINTEF, 19 Des 2025, kaleng 0,33 L berisi air, mulai 21°C): es + garam (−16°C) ke 5°C = 2,5 menit; bak es tanpa garam = 10 menit; freezer = 1 jam; kulkas (rata-rata 4°C) ke 9°C = 2,5 jam, ke 5°C = 10 jam. Takaran garam SINTEF: 1,25 kg garam dalam 5 L air = 250 g per liter. SINTEF tidak menyebut jumlah es; patokan es 3 : garam 1 (−18°C) dari Engineering ToolBox (tabel freezing mixtures). Putar/goyang pelan: SINTEF (goyang berkala) & Popular Science, 29 Mei 2017 (putar pelan). Kaleng soda jangan dikocok keras.

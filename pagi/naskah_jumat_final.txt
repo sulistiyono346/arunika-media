@@ -1,0 +1,14 @@
+A1 (0,0–5,5) Kamu bicara bahasa Arab enam kali seminggu. (selesai ±dtk 2,8) / Coba tebak, Jumat artinya apa? (selesai ≤dtk 5,5) [Layar: kalender dinding, Senin–Sabtu menyala satu per satu + counter 1→6 dari 7 di dtk ~2, Minggu redup; Aru menunjuk sambil bertanya; pill "JUMAT, artinya apa?"]
+A2 (5,5–9,1) Petunjuknya di masjid dekat rumahmu, tiap Jumat siang. [Layar: bangunan masjid, sandal berjejer, motor parkir; tanpa sosok; label kecil "ilustrasi simbolis"]
+A3 (9,1–13,6) Jawabannya: berkumpul, dari kata Arab al-jumu'ah. Tapi dulu, namanya lain. [Layar: al-jumu'ah = berkumpul · NU Online, 18 Apr 2025] [Teks kecil dtk 10–15: Follow, besok: kenapa kabel chargermu selalu putus di ujung?]
+A4 (13,6–17,3) Sebelum Islam, orang Arab menyebutnya hari 'Arubah. Kemudian? [Layar: 'Arubah → Jumat · NU Online, 14 Des 2018]
+A5 (17,3–21,8) Nama Jumat disebut langsung di Al-Qur'an, surah Al-Jumu'ah ayat sembilan. [Layar: QS Al-Jumu'ah 62:9 · quran.kemenag.go.id]
+A6 (21,8–27,3) Hadis riwayat Muslim nomor delapan ratus lima puluh empat menyebutnya sebaik-baik hari. [Layar: "Sebaik-baik hari padanya matahari terbit adalah hari Jumat." · HR Muslim no. 854]
+A7 (27,3–31,8) Uniknya, Senin artinya dua. Selasa tiga, Rabu empat, Kamis lima. [PUNCAK · teks layar ajakan kirim: "Kirim ke grup keluarga, tanya siapa yang sudah tahu 📤"]
+A8 (31,8–35,0) Sabtu dari as-sabt. Terus, satunya ke mana?
+A9 (35,0–40,0) Itu Ahad. Kita lebih sering bilang Minggu, serapan dari bahasa Portugis. [Kartu simpan ±3 dtk "Asal nama 7 hari": Senin ← al-itsnain (dua) · Selasa ← ats-tsulatsa' (tiga) · Rabu ← al-arbi'a' (empat) · Kamis ← al-khamis (lima) · Jumat ← al-jumu'ah (berkumpul) · Sabtu ← as-sabt · Minggu ← domingo (Portugis) / Ahad ← al-ahad (satu) · sumber: KBBI VI Daring; Loan words in Indonesian, Wikipedia]
+A10 (40,0–45,5) Tim Ahad: lebih asli. Tim Minggu: sudah baku. Dua-duanya ada di KBBI. [Layar: dua kartu TIM AHAD | TIM MINGGU, lalu stempel "dua-duanya di KBBI"]
+A11 (45,5–51,4) Jadi Jumat siang nanti, saat orang berkumpul di masjid, namanya sedang menjelaskan dirinya.
+A12 (51,4–54,1) Jujur: baru tahu, atau sudah tahu?
+Penutup ≤1,5 dtk: logo kecil + "baru tahu / sudah tahu?"
+Estimasi VO: 119 kata ÷ 2,2 = ±54 dtk; + penutup ≤1,5 dtk = ±56 dtk.

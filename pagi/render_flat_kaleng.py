@@ -275,7 +275,7 @@ def bg_split():
     d.rectangle((0, 0, W // 2, H), fill=(230, 240, 252))
     d.rectangle((W // 2, 0, W, H), fill=(224, 247, 243))
     d.rectangle((0, 1300, W, H), fill=(246, 242, 234))
-    d.line((W // 2, 0, W // 2, H), fill=NAVY, width=8)
+    d.line((W // 2, 0, W // 2, 1420), fill=NAVY, width=8)  # berhenti di atas baris sumber (QA 26 Nov)
     return img
 
 
